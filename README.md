@@ -1,17 +1,19 @@
-
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/sitenderitpro/sitenderitpro/main/assets/githubbanner.png" width="100%" alt="Sitender Kumar - Technology & Azure Solution Architect" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:071A36&height=200&section=header&text=SITENDER%20KUMAR&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=AZURE%20SOLUTION%20ARCHITECT&descAlignY=58&descSize=18" width="100%" />
-
+<br/><br/>
 
 <a href="https://github.com/sitenderitpro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Enterprise+Cloud+Architecture;Infrastructure+as+Code+%7C+Terraform;Cloud+Security+%7C+Governance+%7C+Automation;Application+%26+Data+Platform+Modernization" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Cloud+Architecture+%7C+Azure+Landing+Zones;Infrastructure+as+Code+%7C+Terraform;Cloud+Security+%7C+Governance+%7C+Entra+ID;Platform+Modernization+%7C+DevOps+%26+CI%2FCD" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/18%2B%20Years-Enterprise%20IT-0078D4?style=for-the-badge" />
+<a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
+</a>
+<img src="https://img.shields.io/badge/18%2B%20Years-Enterprise%20IT-071A36?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/8%2B%20Years-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Architecture-First-7B42BC?style=for-the-badge" />
 
@@ -21,20 +23,19 @@
 
 ## 👨‍💻 About Me
 
-I am a **Technology & Azure Solution Architect** with 18+ years of enterprise IT experience, including 8+ years of experience working with Microsoft Azure.
+I am a **Technology & Azure Solution Architect** with **18+ years** of enterprise IT experience, including **8+ years** designing, building, and governing solutions on Microsoft Azure.
 
-My experience spans application engineering, database platforms, enterprise infrastructure, technology operations, cloud architecture and DevOps.
+My background spans across application engineering, database systems, enterprise infrastructure, 24/7 technology operations, cloud architecture, and DevOps automation.
 
-I focus on designing and evolving enterprise technology platforms by connecting application requirements, data architecture, infrastructure, security, governance and operational considerations.
+I specialize in designing and evolving enterprise technology platforms by bridging business requirements with infrastructure scalability, security, governance, and operational resilience.
 
-**My architectural approach:**
-
-- Design secure and scalable cloud foundations.
-- Build reusable and maintainable infrastructure platforms.
-- Apply governance, identity and network security by design.
-- Automate infrastructure delivery through CI/CD.
-- Modernize application and data workloads.
-- Balance technical architecture with operational efficiency and cost.
+**My Architectural Approach:**
+- 📐 **Design secure and scalable cloud foundations** adhering to enterprise standards.
+- 🧱 **Build reusable, maintainable infrastructure platforms** using Infrastructure as Code.
+- 🛡️ **Apply governance, identity, and network security by design** across workloads.
+- ⚡ **Automate infrastructure and application delivery** through robust CI/CD pipelines.
+- 🔄 **Modernize legacy application and data workloads** for high availability and agility.
+- ⚖️ **Balance architectural excellence with cost optimization (FinOps)** and operational efficiency.
 
 ---
 
@@ -44,78 +45,66 @@ I focus on designing and evolving enterprise technology platforms by connecting 
 <tr>
 <td width="50%" valign="top">
 
-### ☁️ Cloud Architecture
-
-- Azure Cloud Adoption Framework
-- Azure Landing Zones
-- Management Groups
-- Subscription Architecture
-- Governance & Azure Policy
-- Cost Management
+### ☁️ Cloud Architecture & Governance
+- Azure Cloud Adoption Framework (CAF)
+- Azure Landing Zones & Scale Architecture
+- Management Groups & Subscription Topologies
+- Azure Policy & Compliance Enforcement
+- Cost Optimization & FinOps Controls
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Network Architecture
-
-- Hub-Spoke Architecture
-- Virtual Networks & Peering
-- Network Security Groups
-- Azure Firewall
-- Private Endpoints
-- Load Balancing
+### 🌐 Network Architecture & Security
+- Enterprise Hub-Spoke Topologies
+- Virtual Networks (VNet) & Peering
+- Network Security Groups (NSG) & ASGs
+- Azure Firewall & Application Gateway
+- Private Link, Private Endpoints & DNS
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Security & Identity
-
-- Microsoft Entra ID
-- Azure RBAC & PIM
-- Managed Identities
-- Azure Key Vault
-- Least Privilege Access
-- Infrastructure Security Scanning
+### 🔐 Security, Identity & Governance
+- Microsoft Entra ID (Azure AD) Architecture
+- Azure RBAC & Privileged Identity Management (PIM)
+- Managed Identities & Key Vault Integration
+- Zero Trust & Least-Privilege Access Models
+- Infrastructure Security Scanning & Auditing
 
 </td>
 <td width="50%" valign="top">
 
-### 🏗️ Infrastructure Engineering
-
+### 🏗️ Infrastructure Engineering (IaC)
 - Terraform & OpenTofu
-- Reusable Module Design
-- Remote State Management
-- Environment Isolation
-- Infrastructure Automation
-- Deployment Validation
+- Modular, Reusable Architecture Design
+- Remote State Management with Locking
+- Multi-Environment Isolation (Dev, QA, Prod)
+- Drift Detection & Automated Validation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ DevOps & Automation
-
-- Azure DevOps
-- GitHub Actions
-- YAML Pipelines
-- CI/CD Workflows
-- Approval & Release Controls
-- Python & PowerShell
+### ⚙️ DevOps & Delivery Automation
+- Azure DevOps Pipelines & GitHub Actions
+- Multi-Stage YAML Pipelines with Quality Gates
+- Environment-Based Approval Workflows
+- Automated Testing & Deployment Verification
+- PowerShell, Python & Bash Scripting
 
 </td>
 <td width="50%" valign="top">
 
 ### 🗄️ Application & Data Platforms
-
-- .NET & Python Applications
-- SQL Server
-- Azure SQL Managed Instance
-- PostgreSQL
-- SSIS & ETL
-- Data Platform Modernization
+- .NET & Python Enterprise Workloads
+- SQL Server High Availability
+- Azure SQL Managed Instance & DB
+- PostgreSQL & Ubuntu Modernization
+- SSIS & Modern Data ETL Pipelines
 
 </td>
 </tr>
@@ -127,96 +116,87 @@ I focus on designing and evolving enterprise technology platforms by connecting 
 
 <div align="center">
 
-### Cloud & Infrastructure
+### Cloud & Infrastructure Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,windows" alt="Cloud Infrastructure Stack" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,windows" />
+### DevOps, CI/CD & Automation
+<p>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,git,python,powershell,bash" alt="DevOps Stack" />
+</p>
 
-### DevOps & Automation
-
-<img src="https://skillicons.dev/icons?i=github,githubactions,git,python,powershell,bash" />
-
-### Application & Database
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,sqlite" />
+### Enterprise Data & Backend Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql" alt="Data and App Stack" />
+</p>
 
 </div>
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Professional Highlights & Impact
 
-| Area | Experience & Contributions |
+| Capability Area | Enterprise Contributions |
 |:---|:---|
-| Enterprise Cloud Foundation | Azure Landing Zones, Management Groups, Subscription Strategy and Governance |
-| Infrastructure Modernization | On-premises ETL platform modernization using Azure VMs and SQL Managed Instance |
-| Network & Security | Hub-Spoke networking, Azure Firewall, Private Endpoints, RBAC and Managed Identity |
-| Infrastructure Automation | Reusable Terraform modules and CI/CD-based provisioning |
-| Data Engineering | SQL Server, SSIS, .NET and Python-based ETL workflows |
-| Technology Leadership | Led a team of four engineers and participated in architecture reviews |
+| **Enterprise Cloud Foundation** | Designed and deployed Azure Landing Zones, Management Groups, Subscription Strategy, and Automated Policies |
+| **Infrastructure Modernization** | Modernized on-premises legacy ETL and transactional systems to Azure VMs and SQL Managed Instance |
+| **Enterprise Networking & Zero Trust** | Architected Hub-Spoke networking, Azure Firewall rules, Private Endpoints, RBAC, and Managed Identities |
+| **Infrastructure Automation** | Engineered reusable, tested Terraform modules with automated CI/CD-driven provisioning |
+| **Data Platform Engineering** | Led high-throughput data migration and pipeline optimization across SQL Server, SSIS, and PostgreSQL |
+| **Technical Leadership** | Mentored engineering teams, guided architectural decision reviews, and drove best practices across pods |
 
-### Selected Delivery Outcomes
-
-- **27% reduction** in operational overhead through platform modernization.
-- **40% improvement** in processing/configuration time.
-- **30% faster infrastructure deployments** through Terraform and CI/CD automation.
+### 📈 Selected Delivery Outcomes
+- 📉 **27% reduction** in operational overhead through platform and workload modernization.
+- ⚡ **40% improvement** in data processing and pipeline execution performance.
+- 🚀 **30% faster infrastructure delivery** through automated Terraform pipelines.
 
 ---
 
-## 🚀 Engineering Projects & Labs
-
-I believe architecture should be validated through implementation. My GitHub repositories will document practical engineering work, architectural decisions and automation patterns.
+## 🚀 Engineering Projects & Architecture Labs
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### ☁️ Azure Infrastructure Automation
-
-**Stack:** Azure | Terraform | Azure DevOps
-
-- Modular resource provisioning
-- Resource Group and networking design
-- NSG and subnet association
-- Linux VM deployment
+**Stack:** `Azure` | `Terraform` | `Azure DevOps`
+- Modular, scalable resource provisioning
+- Automated VNet, Subnet, and NSG associations
+- Secure Linux VM deployment & bootstrap
+- Enforced naming conventions and tagging
 
 </td>
 <td width="50%" valign="top">
 
 ### 🐘 PostgreSQL Automation
-
-**Stack:** PostgreSQL | Ubuntu | Terraform | Azure DevOps
-
-- Automated PostgreSQL installation
-- Database initialization
-- Extension configuration
-- Schema and table deployment
-- SQL execution through pipelines
+**Stack:** `PostgreSQL` | `Ubuntu` | `Terraform` | `CI/CD`
+- Automated PostgreSQL database installation on Linux
+- Initialization, secure extension provisioning
+- Schema migration and table rollout via pipelines
+- Automated health-checks and validation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 CI/CD Engineering
-
-**Stack:** GitHub Actions | Azure DevOps | YAML
-
-- Infrastructure deployment workflows
-- Pipeline validation
-- Environment-based deployments
-- Controlled execution
+### 🔄 Multi-Stage CI/CD Engineering
+**Stack:** `GitHub Actions` | `Azure DevOps` | `YAML`
+- Production-grade deployment pipelines
+- Pull request validation and linting checks
+- Environment isolation with manual approval gates
+- Automated drift detection & teardown flows
 
 </td>
 <td width="50%" valign="top">
 
 ### 🔐 Azure Network Security Lab
-
-**Stack:** Azure VNet | NSG | Private Connectivity
-
-- Network segmentation
-- Secure resource access
-- Private connectivity patterns
-- Network security validation
+**Stack:** `Azure VNet` | `NSG` | `Private Link` | `Firewall`
+- Enterprise network segmentation patterns
+- Private Endpoint isolation for PaaS services
+- Zero public ingress architecture
+- Automated connectivity and policy verification
 
 </td>
 </tr>
@@ -224,41 +204,34 @@ I believe architecture should be validated through implementation. My GitHub rep
 
 ---
 
-## 📚 Architecture Principles
+## 📚 Core Architecture Principles
 
 <div align="center">
 
-| DESIGN | AUTOMATE | SECURE | OPTIMIZE |
+| 📐 DESIGN | 🛡️ SECURE | ⚙️ AUTOMATE | ⚖️ OPTIMIZE |
 |:---:|:---:|:---:|:---:|
-| Architecture before implementation | Repeatable IaC | Security by design | Cost awareness |
-| Business-aligned solutions | Reusable modules | Least privilege | Operational efficiency |
-| Scalable foundations | CI/CD automation | Private connectivity | Reliability |
+| Architecture before code | Security by design | Repeatable IaC | FinOps & cost awareness |
+| Business-aligned outcomes | Zero Trust & least privilege | Fully automated CI/CD | Operational efficiency |
+| Scalable foundations | Private connectivity | Reusable modules | High resilience & SLA |
 
 </div>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Statistics & Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
+<br/><br/>
 
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -269,7 +242,10 @@ I believe architecture should be validated through implementation. My GitHub rep
 <div align="center">
 
 <a href="https://github.com/sitenderitpro">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
+</a>
+<a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-Live_Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
 <br/><br/>
@@ -278,7 +254,6 @@ I believe architecture should be validated through implementation. My GitHub rep
 
 *Designing the foundation. Automating the delivery. Securing the platform.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=100&section=footer" width="100%" />
 
 </div>
-
