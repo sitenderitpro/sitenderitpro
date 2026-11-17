@@ -9,7 +9,7 @@
 
 <!-- Animated Typing Headline -->
 <a href="https://github.com/sitenderitpro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=Enterprise+Cloud+Architecture+%E2%80%94+Azure+Landing+Zones;Infrastructure+as+Code+%E2%80%94+Modular+Terraform+%26+OpenTofu;Zero+Trust+Security+%E2%80%94+Entra+ID+%26+Network+Isolation;Platform+Modernization+%E2%80%94+DevOps+%26+Automated+CI%2FCD" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Cloud+Architecture+%E2%80%94+Azure+Landing+Zones;Infrastructure+as+Code+%E2%80%94+Modular+Terraform+%26+OpenTofu;Zero+Trust+Security+%E2%80%94+Entra+ID+%26+Network+Isolation;Platform+Modernization+%E2%80%94+DevOps+%26+Automated+CI%2FCD" alt="Typing Headline" />
 </a>
 
 <br/><br/>
@@ -18,38 +18,20 @@
 <a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
 </a>
-<img src="https://img.shields.io/badge/18%2B_Years-Enterprise_IT-0F172A?style=for-the-badge&logo=windows&logoColor=white" alt="18+ Years Enterprise IT" />
-<img src="https://img.shields.io/badge/8%2B_Years-Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="8+ Years Azure" />
-<img src="https://img.shields.io/badge/Architecture-First-7B42BC?style=for-the-badge" alt="Architecture First" />
+&nbsp;
+<a href="https://github.com/sitenderitpro?tab=repositories">
+  <img src="https://img.shields.io/badge/%F0%9F%93%82_Repositories-Browse_Code-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+</a>
+&nbsp;
 <img src="https://komarev.com/ghpvc/?username=sitenderitpro&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/><br/>
 
-<!-- Modern Metrics Bar -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <font size="+3" color="#38BDF8"><b>18+</b></font><br/>
-      <b><font size="3" color="#F8FAFC">Years Experience</font></b><br/>
-      <font size="2" color="#94A3B8">Enterprise IT Leadership</font>
-    </td>
-    <td align="center" width="25%">
-      <font size="+3" color="#38BDF8"><b>8+</b></font><br/>
-      <b><font size="3" color="#F8FAFC">Years in Cloud</font></b><br/>
-      <font size="2" color="#94A3B8">Microsoft Azure Specialist</font>
-    </td>
-    <td align="center" width="25%">
-      <font size="+3" color="#10B981"><b>27%</b></font><br/>
-      <b><font size="3" color="#F8FAFC">OpEx Reduction</font></b><br/>
-      <font size="2" color="#94A3B8">Platform Modernization</font>
-    </td>
-    <td align="center" width="25%">
-      <font size="+3" color="#38BDF8"><b>100%</b></font><br/>
-      <b><font size="3" color="#F8FAFC">Automated IaC</font></b><br/>
-      <font size="2" color="#94A3B8">Modular Terraform Pipelines</font>
-    </td>
-  </tr>
-</table>
+<!-- Compact Key Metrics (No stretched table borders or wide empty padding) -->
+<img src="https://img.shields.io/badge/Experience-18%2B_Years_Enterprise_IT-0F172A?style=for-the-badge&logo=windows&logoColor=white" alt="18+ Years IT" />
+<img src="https://img.shields.io/badge/Cloud-8%2B_Years_Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="8+ Years Azure" />
+<img src="https://img.shields.io/badge/OpEx-27%25_Cost_Reduction-10B981?style=for-the-badge" alt="27% OpEx Reduction" />
+<img src="https://img.shields.io/badge/Delivery-100%25_IaC_Automated-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="100% Automated IaC" />
 
 </div>
 
@@ -94,16 +76,12 @@
 
 ### 💼 Measurable Delivery Outcomes
 
-```
-┌────────────────────────────────────────────────────────────────────────┐
-│  DELIVERY OUTCOMES & BUSINESS VALUE                                    │
-├────────────────────────────────┬───────────────────────────────────────┤
-│  📉 27% OpEx Cost Reduction    │  Legacy on-prem ETL & DBs to Azure    │
-│  ⚡ 40% Processing Performance │  High-throughput PostgreSQL & SQL MI  │
-│  🚀 30% Faster Time-to-Market  │  Automated Terraform CI/CD Pipelines  │
-│  🛡️ 100% Zero Public Ingress   │  Private Link & Azure Firewall VNet   │
-└────────────────────────────────┴───────────────────────────────────────┘
-```
+| Metric | Capability Domain | Enterprise Impact & Outcomes |
+|:---:|:---|:---|
+| 📉 **27%** | **OpEx Cost Reduction** | Modernized legacy on-premises transactional DBs & ETL workflows to Azure VMs and SQL Managed Instance. |
+| ⚡ **40%** | **Performance Gain** | Engineered optimized database schemas, indexing strategies, and automated data processing pipelines. |
+| 🚀 **30%** | **Faster Time-to-Market** | Accelerated multi-environment cloud resource rollout through reusable modular Terraform pipelines. |
+| 🛡️ **100%** | **Zero Public Ingress** | Enforced private connectivity across PaaS resources via Private Link, Private Endpoints, and Azure Firewall. |
 
 ---
 
@@ -122,7 +100,7 @@
 
 ---
 
-### 🚀 Engineering Labs & Implementation Proofs
+### 🚀 Featured Engineering Labs
 
 <table>
 <tr>
@@ -152,7 +130,7 @@
 
 #### 🔄 Multi-Stage CI/CD Pipeline
 `GitHub Actions` · `Azure DevOps` · `YAML`
-* Production-grade deployment pipelines with automated linting
+* Quality-gated pipelines with automated linting & validation
 * Multi-environment isolation (Dev ➔ QA ➔ Production)
 * Enforced manual approvals & quality gates for production
 * Secure credential injection via Azure Managed Identities
@@ -216,7 +194,7 @@
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
+  <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
 <br/><br/>
