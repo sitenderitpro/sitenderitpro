@@ -53,9 +53,8 @@
 
 ---
 
-### 👨‍💻 Professional Profile
+### 👨‍💻 Professional Summary
 
-> [!NOTE]
 > **Technology & Azure Solution Architect** with over **18 years** of enterprise IT engineering experience, including **8+ years** architecting, governing, and scaling platforms on **Microsoft Azure**.
 >
 > Specialized in architecting enterprise-grade cloud foundations, multi-subscription landing zones, and repeatable infrastructure-as-code automation that balance agility, compliance, and cost governance.
