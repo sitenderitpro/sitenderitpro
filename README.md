@@ -1,7 +1,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A36,50:0078D4,100:00C6FF&height=220&section=header&text=Sitender%20Kumar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technology%20%26%20Azure%20Solution%20Architect&descAlignY=58&descSize=18" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:071A36&height=200&section=header&text=SITENDER%20KUMAR&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=AZURE%20SOLUTION%20ARCHITECT&descAlignY=58&descSize=18" width="100%" />
+
 
 <a href="https://github.com/sitenderitpro">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Enterprise+Cloud+Architecture;Infrastructure+as+Code+%7C+Terraform;Cloud+Security+%7C+Governance+%7C+Automation;Application+%26+Data+Platform+Modernization" alt="Typing SVG" />
