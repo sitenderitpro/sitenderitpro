@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A36,50:0078D4,100:00C6FF&height=220&section=header&text=Sitender%20Kumar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technology%20%26%20Azure%20Solution%20Architect&descAlignY=58&descSize=18" width="100%" />
@@ -279,4 +279,4 @@ I believe architecture should be validated through implementation. My GitHub rep
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=110&section=footer" width="100%" />
 
 </div>
-```
+
