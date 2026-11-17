@@ -5,14 +5,14 @@
   <img src="https://raw.githubusercontent.com/sitenderitpro/sitenderitpro/main/assets/githubbanner.png" width="100%" alt="Sitender Kumar - Enterprise Azure Solution Architect" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Animated Typing Headline -->
 <a href="https://github.com/sitenderitpro">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Cloud+Architecture+%E2%80%94+Azure+Landing+Zones;Infrastructure+as+Code+%E2%80%94+Modular+Terraform+%26+OpenTofu;Zero+Trust+Security+%E2%80%94+Entra+ID+%26+Network+Isolation;Platform+Modernization+%E2%80%94+DevOps+%26+Automated+CI%2FCD" alt="Typing Headline" />
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Primary Action Badges -->
 <a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
