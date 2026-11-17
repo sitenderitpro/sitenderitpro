@@ -27,11 +27,31 @@
 
 <br/><br/>
 
-<!-- Compact Key Metrics (No stretched table borders or wide empty padding) -->
-<img src="https://img.shields.io/badge/Experience-18%2B_Years_Enterprise_IT-0F172A?style=for-the-badge&logo=windows&logoColor=white" alt="18+ Years IT" />
-<img src="https://img.shields.io/badge/Cloud-8%2B_Years_Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="8+ Years Azure" />
-<img src="https://img.shields.io/badge/OpEx-27%25_Cost_Reduction-10B981?style=for-the-badge" alt="27% OpEx Reduction" />
-<img src="https://img.shields.io/badge/Delivery-100%25_IaC_Automated-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="100% Automated IaC" />
+<!-- Executive Metrics Cards (Compact width - No extra left/right padding) -->
+<table align="center">
+  <tr>
+    <td align="center" width="165px">
+      <font size="+2" color="#0078D4"><b>18+</b></font><br/>
+      <b>Years Experience</b><br/>
+      <font size="1" color="#8b949e">Enterprise IT Leadership</font>
+    </td>
+    <td align="center" width="165px">
+      <font size="+2" color="#0078D4"><b>8+</b></font><br/>
+      <b>Years in Cloud</b><br/>
+      <font size="1" color="#8b949e">Microsoft Azure Specialist</font>
+    </td>
+    <td align="center" width="165px">
+      <font size="+2" color="#10B981"><b>27%</b></font><br/>
+      <b>OpEx Reduction</b><br/>
+      <font size="1" color="#8b949e">Platform Modernization</font>
+    </td>
+    <td align="center" width="165px">
+      <font size="+2" color="#7B42BC"><b>100%</b></font><br/>
+      <b>Automated IaC</b><br/>
+      <font size="1" color="#8b949e">Modular Terraform Pipelines</font>
+    </td>
+  </tr>
+</table>
 
 </div>
 
