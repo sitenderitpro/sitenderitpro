@@ -31,8 +31,7 @@
 <table align="center">
   <tr>
     <td align="center" width="165px">
-      <font size="+2" color="#0078D4"><b>18+</b></font><br/>
-      <b>Years Experience</b><br/>
+      <font size="+2" color="#0078D4"><b>18+ Years Experience</b></font>
       <font size="1" color="#8b949e">Enterprise IT Leadership</font>
     </td>
     <td align="center" width="165px">
