@@ -84,7 +84,7 @@
 <kbd>Azure DevOps</kbd> <kbd>GitHub Actions</kbd> <kbd>Multi-Stage YAML</kbd> <kbd>PR Quality Gates</kbd> <kbd>PowerShell</kbd> <kbd>Python</kbd> <kbd>Bash</kbd>
 
 #### 🗄️ 06 / Enterprise Data & Platform Modernization
-> Migrating legacy architectures to resilient, cloud-native managed data platforms.
+> Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
 <kbd>SQL Server Always-On</kbd> <kbd>Azure SQL Managed Instance</kbd> <kbd>PostgreSQL on Ubuntu</kbd> <kbd>SSIS ETL Modernization</kbd> <kbd>.NET / C#</kbd>
 
 ---
