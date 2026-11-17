@@ -35,18 +35,15 @@
       <font size="1" color="#8b949e">Enterprise IT Leadership</font>
     </td>
     <td align="center" width="165px">
-      <font size="+2" color="#0078D4"><b>8+</b></font><br/>
-      <b>Years in Cloud</b><br/>
+      <font size="+2" color="#0078D4"><b>8+ Years in Cloud</b></font>
       <font size="1" color="#8b949e">Microsoft Azure Specialist</font>
     </td>
     <td align="center" width="165px">
-      <font size="+2" color="#10B981"><b>27%</b></font><br/>
-      <b>OpEx Reduction</b><br/>
+      <font size="+2" color="#10B981"><b>27% OpEx Reduction</b></font>
       <font size="1" color="#8b949e">Platform Modernization</font>
     </td>
     <td align="center" width="165px">
-      <font size="+2" color="#7B42BC"><b>100%</b></font><br/>
-      <b>Automated IaC</b><br/>
+      <font size="+2" color="#7B42BC"><b>100% Automated IaC</b></font>
       <font size="1" color="#8b949e">Modular Terraform Pipelines</font>
     </td>
   </tr>
