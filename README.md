@@ -1,15 +1,17 @@
- <div align="center">
+```markdown
+<div align="center">
 
-# SITENDER KUMAR
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071A36,50:0078D4,100:00C6FF&height=220&section=header&text=Sitender%20Kumar&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Technology%20%26%20Azure%20Solution%20Architect&descAlignY=58&descSize=18" width="100%" />
 
-### AZURE SOLUTION ARCHITECT | CLOUD & TECHNOLOGY ARCHITECT
+<a href="https://github.com/sitenderitpro">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Enterprise+Cloud+Architecture;Infrastructure+as+Code+%7C+Terraform;Cloud+Security+%7C+Governance+%7C+Automation;Application+%26+Data+Platform+Modernization" alt="Typing SVG" />
+</a>
 
-**Building Secure • Scalable • Automated Enterprise Platforms**
+<br/>
 
-[![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)](https://azure.microsoft.com/products/devops)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sitenderitpro)
+<img src="https://img.shields.io/badge/18%2B%20Years-Enterprise%20IT-0078D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/8%2B%20Years-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-First-7B42BC?style=for-the-badge" />
 
 </div>
 
@@ -17,91 +19,264 @@
 
 ## 👨‍💻 About Me
 
-Technology professional with **18+ years of IT experience**, including **8+ years in Microsoft Azure**, spanning enterprise applications, databases, infrastructure, cloud architecture and DevOps.
+I am a **Technology & Azure Solution Architect** with 18+ years of enterprise IT experience, including 8+ years of experience working with Microsoft Azure.
 
-I work at the intersection of **Architecture, Engineering and Operations** — translating complex business requirements into secure, scalable and maintainable technology solutions.
+My experience spans application engineering, database platforms, enterprise infrastructure, technology operations, cloud architecture and DevOps.
 
-- ☁️ Designing enterprise Azure cloud architectures
-- 🏗️ Building Infrastructure as Code with Terraform
-- 🔐 Implementing cloud security, governance and networking
-- ⚙️ Automating infrastructure and database operations
-- 📊 Modernizing application and data platforms
-- 👥 Leading engineering teams and technical delivery
+I focus on designing and evolving enterprise technology platforms by connecting application requirements, data architecture, infrastructure, security, governance and operational considerations.
+
+**My architectural approach:**
+
+- Design secure and scalable cloud foundations.
+- Build reusable and maintainable infrastructure platforms.
+- Apply governance, identity and network security by design.
+- Automate infrastructure delivery through CI/CD.
+- Modernize application and data workloads.
+- Balance technical architecture with operational efficiency and cost.
 
 ---
 
-## 🧩 Core Technology Stack
+## 🏛️ Architecture & Core Expertise
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ☁️ Cloud Architecture
+
+- Azure Cloud Adoption Framework
+- Azure Landing Zones
+- Management Groups
+- Subscription Architecture
+- Governance & Azure Policy
+- Cost Management
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Network Architecture
+
+- Hub-Spoke Architecture
+- Virtual Networks & Peering
+- Network Security Groups
+- Azure Firewall
+- Private Endpoints
+- Load Balancing
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Security & Identity
+
+- Microsoft Entra ID
+- Azure RBAC & PIM
+- Managed Identities
+- Azure Key Vault
+- Least Privilege Access
+- Infrastructure Security Scanning
+
+</td>
+<td width="50%" valign="top">
+
+### 🏗️ Infrastructure Engineering
+
+- Terraform & OpenTofu
+- Reusable Module Design
+- Remote State Management
+- Environment Isolation
+- Infrastructure Automation
+- Deployment Validation
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ DevOps & Automation
+
+- Azure DevOps
+- GitHub Actions
+- YAML Pipelines
+- CI/CD Workflows
+- Approval & Release Controls
+- Python & PowerShell
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Application & Data Platforms
+
+- .NET & Python Applications
+- SQL Server
+- Azure SQL Managed Instance
+- PostgreSQL
+- SSIS & ETL
+- Data Platform Modernization
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧰 Technology Ecosystem
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=azure,terraform,github,githubactions,docker,kubernetes,linux,windows,python,powershell,dotnet,cs,postgres,mysql)](https://skillicons.dev)
+### Cloud & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,windows" />
+
+### DevOps & Automation
+
+<img src="https://skillicons.dev/icons?i=github,githubactions,git,python,powershell,bash" />
+
+### Application & Database
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,postgres,mysql,sqlite" />
 
 </div>
 
-| Architecture | Technologies |
+---
+
+## 💼 Professional Highlights
+
+| Area | Experience & Contributions |
 |:---|:---|
-| Cloud & Governance | Azure CAF, Landing Zones, Management Groups, Azure Policy |
-| Networking & Security | VNet, Hub-Spoke, NSG, Firewall, Private Endpoint, Entra ID, RBAC |
-| Infrastructure Automation | Terraform, OpenTofu, Reusable Modules, Remote State |
-| DevOps & CI/CD | Azure DevOps, GitHub Actions, YAML Pipelines |
-| Data & Applications | SQL Server, Azure SQL MI, PostgreSQL, SSIS, ETL, .NET, Python |
-| Monitoring | Azure Monitor, Log Analytics, Grafana |
+| Enterprise Cloud Foundation | Azure Landing Zones, Management Groups, Subscription Strategy and Governance |
+| Infrastructure Modernization | On-premises ETL platform modernization using Azure VMs and SQL Managed Instance |
+| Network & Security | Hub-Spoke networking, Azure Firewall, Private Endpoints, RBAC and Managed Identity |
+| Infrastructure Automation | Reusable Terraform modules and CI/CD-based provisioning |
+| Data Engineering | SQL Server, SSIS, .NET and Python-based ETL workflows |
+| Technology Leadership | Led a team of four engineers and participated in architecture reviews |
+
+### Selected Delivery Outcomes
+
+- **27% reduction** in operational overhead through platform modernization.
+- **40% improvement** in processing/configuration time.
+- **30% faster infrastructure deployments** through Terraform and CI/CD automation.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Engineering Projects & Labs
 
-**☁️ Cloud Architecture & Landing Zones**
+I believe architecture should be validated through implementation. My GitHub repositories will document practical engineering work, architectural decisions and automation patterns.
 
-Enterprise cloud foundations, subscription strategy, governance, network topology and secure connectivity.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🏗️ Infrastructure as Code**
+### ☁️ Azure Infrastructure Automation
 
-Reusable Terraform modules, automated provisioning, environment separation and repeatable deployments.
+**Stack:** Azure | Terraform | Azure DevOps
 
-**🔄 DevOps & Automation**
+- Modular resource provisioning
+- Resource Group and networking design
+- NSG and subnet association
+- Linux VM deployment
 
-CI/CD pipelines, infrastructure validation, deployment approvals and automated operational workflows.
+</td>
+<td width="50%" valign="top">
 
-**🗄️ Application & Data Modernization**
+### 🐘 PostgreSQL Automation
 
-Enterprise application platforms, SQL Server, Azure SQL MI, ETL workflows and database automation.
+**Stack:** PostgreSQL | Ubuntu | Terraform | Azure DevOps
+
+- Automated PostgreSQL installation
+- Database initialization
+- Extension configuration
+- Schema and table deployment
+- SQL execution through pipelines
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔄 CI/CD Engineering
+
+**Stack:** GitHub Actions | Azure DevOps | YAML
+
+- Infrastructure deployment workflows
+- Pipeline validation
+- Environment-based deployments
+- Controlled execution
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 Azure Network Security Lab
+
+**Stack:** Azure VNet | NSG | Private Connectivity
+
+- Network segmentation
+- Secure resource access
+- Private connectivity patterns
+- Network security validation
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Current Engineering Projects
-
-| Project | Technology | Focus |
-|:---|:---|:---|
-| PostgreSQL Automation on Azure | Terraform, Azure DevOps, PostgreSQL | VM provisioning and database setup |
-| Azure Infrastructure Modules | Terraform, Azure | Modular infrastructure architecture |
-| Cloud CI/CD Automation | GitHub Actions, Azure DevOps | Pipeline-driven deployments |
-| Azure Network Security Lab | Azure VNet, NSG | Network segmentation and security |
-
-*Repositories and implementation documentation will be linked here as projects are published.*
-
----
-
-## 📈 GitHub Activity
+## 📚 Architecture Principles
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true)
+| DESIGN | AUTOMATE | SECURE | OPTIMIZE |
+|:---:|:---:|:---:|:---:|
+| Architecture before implementation | Repeatable IaC | Security by design | Cost awareness |
+| Business-aligned solutions | Reusable modules | Least privilege | Operational efficiency |
+| Scalable foundations | CI/CD automation | Private connectivity | Reliability |
 
 </div>
 
 ---
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-### DESIGN • AUTOMATE • SECURE • DELIVER
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
 
-*Turning complex technology challenges into practical architecture solutions.*
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" />
 
-**Let's connect and build something meaningful.**
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sitenderitpro)
+<img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/sitenderitpro">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Technology Architecture | Cloud Engineering | Infrastructure Automation**
+
+*Designing the foundation. Automating the delivery. Securing the platform.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=110&section=footer" width="100%" />
+
+</div>
+```
