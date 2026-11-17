@@ -1,38 +1,89 @@
-# Hi, I'm Sitender Kumar 👋
+# Sitender Kumar
+### Technology & Azure Solution Architect | Enterprise Cloud Architecture | Infrastructure Automation
 
-### Azure Solution Architect | Cloud & Infrastructure Architecture | DevOps
+**Designing secure, scalable and governed enterprise technology platforms — from application and data architecture to cloud infrastructure and automation.**
 
-I am an IT professional with **18+ years of experience** across enterprise technology, application and database engineering, infrastructure operations, and cloud architecture, including **8+ years of Azure experience**.
+I bring **18+ years of enterprise IT experience**, including **8+ years working with Microsoft Azure**, across technology operations, application engineering, database platforms, infrastructure modernization and cloud architecture.
 
-I focus on designing secure, scalable, governed, and cost-optimized cloud solutions, translating business and technology requirements into practical enterprise architectures.
+My approach to architecture is driven by more than provisioning cloud resources. I focus on understanding application dependencies, data flows, infrastructure boundaries, security requirements, operational reliability and cost implications before defining the target architecture.
 
-### Architecture & Technical Expertise
+---
 
-- **Azure Architecture:** Cloud adoption, CAF Landing Zones, Management Groups, Subscription Design, Hub-Spoke Architecture
-- **Infrastructure:** Azure VMs, VNets, NSGs, Azure Firewall, Private Endpoints, Storage, Load Balancers
-- **Infrastructure as Code:** Terraform, reusable modules, remote state, environment-based deployments
-- **DevOps & Automation:** Azure DevOps, GitHub Actions, YAML pipelines, CI/CD
-- **Security & Governance:** Azure RBAC, Entra ID, PIM, Managed Identities, Azure Policy, Key Vault
-- **Monitoring:** Azure Monitor, Log Analytics, Grafana
-- **Application & Data:** .NET, Python, SQL Server, Azure SQL Managed Instance, SSIS, ETL
+## Architecture Domains
 
-### Selected Architecture & Engineering Work
+| Domain | Architecture & Engineering Focus |
+|---|---|
+| **Cloud Foundation** | Azure CAF Landing Zones, Management Groups, Subscription Strategy, Governance |
+| **Network Architecture** | Hub-Spoke Topology, VNet Peering, NSGs, Azure Firewall, Private Endpoints |
+| **Identity & Security** | Microsoft Entra ID, RBAC, PIM, Managed Identity, Key Vault, Azure Policy |
+| **Infrastructure Engineering** | Terraform, Modular IaC, Remote State, Environment Isolation, Reusable Components |
+| **DevOps & Delivery** | Azure DevOps, GitHub Actions, YAML Pipelines, CI/CD, Approval Workflows |
+| **Application Platforms** | .NET, Python, Linux, Windows, Application Integration |
+| **Data Platforms** | SQL Server, Azure SQL Managed Instance, SSIS, ETL, Data Modernization |
+| **Observability** | Azure Monitor, Log Analytics, Grafana, Operational Monitoring |
 
-- Designed Azure Landing Zone foundations with management groups, governance, RBAC, and network architecture.
-- Developed reusable Terraform modules and automated infrastructure provisioning through CI/CD pipelines.
-- Worked on on-premises ETL platform modernization using Azure infrastructure and SQL Managed Instance.
-- Implemented hub-spoke networking, private connectivity, and security controls.
-- Led engineering teams and contributed to architecture reviews, operational improvements, and cost optimization.
+---
 
-### Current Focus
+## Selected Architecture & Engineering Initiatives
 
-Building practical, documented projects around:
+### 01. Enterprise Azure Foundation
+- Designed landing-zone foundations covering management groups, subscription organization and governance.
+- Established network segmentation and hub-spoke connectivity patterns.
+- Applied RBAC, Azure Policy and private connectivity controls.
+- Considered security, operational boundaries and cost management in architecture decisions.
 
-- Azure infrastructure automation using Terraform
-- PostgreSQL deployment and database automation
-- Azure DevOps and GitHub Actions CI/CD
-- Cloud networking, security, and governance
+### 02. Infrastructure as Code & Platform Automation
+- Developed reusable Terraform modules for Azure infrastructure.
+- Implemented environment-based deployments and remote state management.
+- Integrated infrastructure provisioning with Azure DevOps and GitHub Actions.
+- Introduced validation and security checks into deployment workflows.
 
-### Connect
+### 03. Enterprise Data Platform Modernization
+- Worked on modernizing on-premises ETL workloads using Azure infrastructure and SQL Managed Instance.
+- Integrated .NET, Python, SQL Server and SSIS-based data processing workflows.
+- Focused on reducing infrastructure overhead and improving processing efficiency.
+- Considered data security and operational monitoring in the target design.
 
-- GitHub: https://github.com/sitenderitpro
+### 04. Application & Infrastructure Operations
+- Experience across enterprise application platforms, Linux infrastructure, databases and production operations.
+- Worked with high-volume contact-centre environments and application integrations.
+- Bridged application, database and infrastructure requirements during technology delivery.
+
+---
+
+## Engineering Principles
+
+- Architecture before implementation.
+- Security and governance by design.
+- Infrastructure as Code over repetitive manual provisioning.
+- Reusable modules and consistent deployment patterns.
+- Private connectivity and least-privilege access.
+- Observability, operational resilience and cost awareness.
+- Architecture decisions aligned with business requirements.
+
+---
+
+## Current Engineering Lab
+
+I use hands-on projects to validate architecture patterns and document implementation decisions.
+
+| Project | Focus |
+|---|---|
+| Terraform + Azure Infrastructure | Modular resource provisioning and network design |
+| PostgreSQL on Azure VM | Automated installation, database configuration and SQL execution |
+| CI/CD Automation | Pipeline-driven infrastructure and database operations |
+| Azure Networking & Security | NSG, private connectivity and network segmentation |
+
+*Project repositories and architecture documentation will be published here as they are completed.*
+
+---
+
+## Technology Stack
+
+`Microsoft Azure` `Terraform` `OpenTofu` `Azure DevOps` `GitHub Actions` `Linux` `Windows Server` `PostgreSQL` `SQL Server` `Azure SQL MI` `.NET` `Python` `PowerShell` `Docker` `Kubernetes`
+
+---
+
+## Connect
+
+**GitHub:** [github.com/sitenderitpro](https://github.com/sitenderitpro)
