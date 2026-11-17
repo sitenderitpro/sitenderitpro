@@ -77,7 +77,7 @@
 
 #### 🏗️ 04 / Infrastructure as Code (IaC) Automation
 > Building version-controlled, reusable, modular infrastructure delivery pipelines.
-</br>kbd>Terraform</kbd> <kbd>OpenTofu</kbd> <kbd>Terragrunt</kbd> <kbd>Remote State Locking</kbd> <kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd> <kbd>Drift Detection</kbd>
+</br><kbd>Terraform</kbd> <kbd>OpenTofu</kbd> <kbd>Terragrunt</kbd> <kbd>Remote State Locking</kbd> <kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd> <kbd>Drift Detection</kbd>
 
 #### ⚙️ 05 / DevOps & Continuous Delivery
 > Production-grade automated release pipelines with strict validation gates and automated rollbacks.
