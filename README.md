@@ -30,7 +30,7 @@
 <!-- Executive Metrics Cards (Compact width - No extra left/right padding) -->
 <table align="center">
   <tr>
-    <td align="center" width="185px">
+    <td align="center" width="220px">
       <font size="+2" color="#0078D4"><b>18+ Years Experience</b></font>
       <font size="1" color="#8b949e">Enterprise IT Leadership</font>
     </td>
