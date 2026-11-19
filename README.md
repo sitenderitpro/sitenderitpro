@@ -210,7 +210,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 <table width="990" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed;border: none; border-collapse: collapse;">
   <tr>
-    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;border: none; border-collapse: collapse;">
       <img
         src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true&width=490&height=390&bg_color=1a1b27&title_color=38bdf8&text_color=c9d1d9&line=38bdf8&point=f8fafc&radius=8&days=30&cache_seconds=60&v=20261119"
         width="490"
@@ -219,7 +219,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
         alt="Activity Graph"
       />
     </td>
-    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;border: none; border-collapse: collapse;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=normal&theme=tokyonight&hide_border=true&langs_count=4&card_width=490&card_height=170"
         width="490"
@@ -233,7 +233,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 </tr>
   <tr>
-    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;border: none; border-collapse: collapse;">
       <img
         src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true&card_width=490&card_height=170"
         width="490"
@@ -242,7 +242,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
         alt="GitHub Streak"
       />
     </td>
-    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;border: none; border-collapse: collapse;">
       <img
         src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=560&card_height=170"
         width="490"
