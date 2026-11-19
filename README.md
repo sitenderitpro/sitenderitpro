@@ -257,22 +257,12 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 
 
-
-
-
-
-
-
-
-
-
 <h3>🤝 Connect & Collaborate</h3>
 <div align="center"><a href="https://github.com/sitenderitpro">
 
   <img src="https://img.shields.io/badge/GitHub-Follow%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 
-&nbsp;&nbsp;&nbsp;
 <a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
 </a>
