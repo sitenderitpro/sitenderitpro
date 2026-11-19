@@ -18,26 +18,29 @@
 <img src="https://komarev.com/ghpvc/?username=sitenderitpro&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </br></br>
 <!-- Executive Metrics Cards (Compact width - No extra left/right padding) -->
-<table align="center" cellpadding="5" cellspacing="0">
+<table align="center">
   <tr>
-    <td align="center" width="25%">
-      <h4><strong>18+ Years Experience</strong></h4>
-      <sub>Enterprise IT Leadership</sub>
+    <td align="center" width="240px">
+      <font size="+2" color="#0078D4"><b>18+ Years Experience</b></font>
+      <font size="1" color="#8b949e">Enterprise IT Leadership</font>
     </td>
     <td align="center" width="240px">
-      <h4><strong>8+ Years in Cloud</strong></h4>
-      <sub>Microsoft Azure Specialist</sub>
+      <font size="+2" color="#0078D4"><b>8+ Years in Cloud</b></font>
+      <font size="1" color="#8b949e">Microsoft Azure Specialist</font>
     </td>
     <td align="center" width="240px">
-      <h4><strong>27% OpEx Reduction</strong></h4>
-      <sub>Platform Modernization</sub>
+      <font size="+2" color="#10B981"><b>27% OpEx Reduction</b></font>
+      <font size="1" color="#8b949e">Platform Modernization</font>
     </td>
     <td align="center" width="240px">
-      <h4><strong>100% Automated IaC</strong></h4>
-      <sub>Modular Terraform Pipelines</sub>
+      <font size="+2" color="#7B42BC"><b>100% Automated IaC</b></font>
+      <font size="1" color="#8b949e">Modular Terraform Pipelines</font>
     </td>
   </tr>
-</table></div><h2>👨‍💻 Professional Summary</h2>Technology & Azure Solution Architect with over 18 years of enterprise IT engineering experience, including 8+ years architecting, governing, and scaling platforms on Microsoft Azure.
+</table>
+
+
+</div><h2>👨‍💻 Professional Summary</h2>Technology & Azure Solution Architect with over 18 years of enterprise IT engineering experience, including 8+ years architecting, governing, and scaling platforms on Microsoft Azure.
 
 Specialized in architecting enterprise-grade cloud foundations, multi-subscription landing zones, and repeatable infrastructure-as-code automation that balance agility, compliance, and cost governance.
 
