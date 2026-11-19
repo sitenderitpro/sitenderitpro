@@ -105,10 +105,10 @@ Migrating legacy architectures to resilient, cloud-native managed data platforms
 <kbd>.NET / C#</kbd>
 
 <h3>💼 Measurable Delivery Outcomes</h3>
-Metric	Capability Domain	Enterprise Impact & Outcomes: 
-📉 27%	Data & Platform Modernization	Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure.
-⚡ 40%	Data & Platform Modernization	Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines.
-🚀 30%	IaC & DevOps Automation	Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines.
+Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
+📉 27%	Data & Platform Modernization	Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure.</br>
+⚡ 40%	Data & Platform Modernization	Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines.</br>
+🚀 30%	IaC & DevOps Automation	Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines.</br>
 🛡️ 100%	Network Architecture & Zero Trust	Achieved zero public ingress for designated PaaS resources through Private Link, Private Endpoints and Azure Firewall.
 
 
@@ -161,7 +161,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes:
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4 align = center>☁️ Azure Infrastructure Automation</h4> Azure · Terraform · Azure DevOps</br>
+<h4 align = center>☁️ Azure Infrastructure Automation</h4> <center>Azure · Terraform · Azure DevOps<center></br>
 - Modular provisioning for enterprise landing zone resources</br>
 - Automated VNet, Subnet, and NSG baseline associations</br>
 - Linux VM bootstrap, security hardening & tagging governance</br>
