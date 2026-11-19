@@ -209,7 +209,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 <h3>📊 GitHub Statistics & Analytics</h3>
 <div align="center">
 
-<img height="130" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
