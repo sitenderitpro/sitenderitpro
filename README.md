@@ -235,7 +235,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 <!-- Row 2: Contribution Streak -->
 <img
   src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
-  width="65%"
+  width="100%"
   alt="GitHub Streak"
 />
 
