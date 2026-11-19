@@ -211,7 +211,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
   <tr>
     <td width="470" height="195" align="center" valign="middle" style="width:470px;height:195px;padding:0;">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true&width=470&height=400&bg_color=1a1b27&title_color=38bdf8&text_color=c9d1d9&line=38bdf8&point=f8fafc&radius=8&days=30&cache_seconds=60&v=20261119"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true&width=470&height=420&bg_color=1a1b27&title_color=38bdf8&text_color=c9d1d9&line=38bdf8&point=f8fafc&radius=8&days=30&cache_seconds=60&v=20261119"
         width="470"
         height="195"
         style="display:block;width:470px;height:195px;object-fit:fill;"
