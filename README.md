@@ -93,10 +93,10 @@
 
 | Metric | Capability Domain | Enterprise Impact & Outcomes |
 |:---:|:---|:---|
-| 📉 **27%** | **OpEx Cost Reduction** | Modernized legacy on-premises transactional DBs & ETL workflows to Azure VMs and SQL Managed Instance. |
-| ⚡ **40%** | **Performance Gain** | Engineered optimized database schemas, indexing strategies, and automated data processing pipelines. |
-| 🚀 **30%** | **Faster Time-to-Market** | Accelerated multi-environment cloud resource rollout through reusable modular Terraform pipelines. |
-| 🛡️ **100%** | **Zero Public Ingress** | Enforced private connectivity across PaaS resources via Private Link, Private Endpoints, and Azure Firewall. |
+| 📉 **27%** | **Data & Platform Modernization** | Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure. |
+| ⚡ **40%** | **Data & Platform Modernization** | Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines. |
+| 🚀 **30%** | **IaC & DevOps Automation** | Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines. |
+| 🛡️ **100%** | **Network Architecture & Zero Trust** | Achieved zero public ingress for designated PaaS resources through Private Link, Private Endpoints and Azure Firewall. |
 
 ---
 
