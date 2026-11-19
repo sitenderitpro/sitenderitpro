@@ -196,12 +196,11 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 </td>
 </tr>
 </table>
-<h3>📚 Core Architecture Principles</h3>
-<div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE</div>
+<h3>📚 Core Architecture Principles</h3><div>📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE</div>
 <div>
-Architecture before code	Security by design	Repeatable IaC	FinOps & cost governance </br>
-Business-aligned outcomes	Zero Trust & least privilege	Multi-stage CI/CD	High availability & resilience</br>
-Scalable foundations	Private connectivity	Reusable modules	Operational simplicity</br>
+• Architecture before code	Security by design	Repeatable IaC	FinOps & cost governance </br>
+• Business-aligned outcomes	Zero Trust & least privilege	Multi-stage CI/CD	High availability & resilience</br>
+• Scalable foundations	Private connectivity	Reusable modules	Operational simplicity</br>
 </div>
 
 
