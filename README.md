@@ -265,7 +265,8 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
 </a>
 </br>
-
+</br>
+</br>
 <p align="center">
   <strong>
     TECHNOLOGY ARCHITECTURE &nbsp;·&nbsp;
