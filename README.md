@@ -161,31 +161,38 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 <table>
 <tr>
 <td width="50%" valign="top">
-<h4 align = center>☁️ Azure Infrastructure Automation</h4> <p align=center>Azure · Terraform · OpenTofu · Azure DevOps<p>
+<h4 align = center>☁️ Azure Infrastructure Automation</h4> 
+<p align=center>Azure · Terraform · OpenTofu · Azure DevOps<p>
 - Modular provisioning for enterprise landing zone resources</br>
 - Automated VNet, Subnet, and NSG baseline associations</br>
 - Linux VM bootstrap, security hardening & tagging governance</br>
 - Remote state management with lease locking & state backup
 </td>
-<td width="50%" valign="top"><h3>🐘 PostgreSQL Enterprise Automation</h3>PostgreSQL · Ubuntu Linux · Terraform · CI/CD
-- Automated PostgreSQL deployment & security hardening on Linux
-- Scripted role, user, and extension provisioning
-- Pipeline-driven schema migration and automated table rollout
-- Automated disaster recovery backup & validation flows
+<td width="50%" valign="top">
+<h4>🐘 PostgreSQL Enterprise Automation</h4>
+<p align=center>PostgreSQL · Ubuntu Linux · Terraform · CI/CD</p>
+- Automated PostgreSQL deployment & security hardening on Linux</br>
+- Scripted role, user, and extension provisioning</br>
+- Pipeline-driven schema migration and automated table rollout</br>
+- Automated disaster recovery backup & validation flows</br>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top"><h3>🔄 Multi-Stage CI/CD Pipeline</h3>GitHub Actions · Azure DevOps · YAML
-- Quality-gated pipelines with automated linting & validation
-- Multi-environment isolation (Dev ➔ QA ➔ Production)
-- Enforced manual approvals & quality gates for production
-- Secure credential injection via Azure Managed Identities
+<td width="50%" valign="top">
+<h4>🔄 Multi-Stage CI/CD Pipeline</h4>
+<p align=center>GitHub Actions · Azure DevOps · YAML</p>
+- Quality-gated pipelines with automated linting & validation</br>
+- Multi-environment isolation (Dev ➔ QA ➔ Production)</br>
+- Enforced manual approvals & quality gates for production</br>
+- Secure credential injection via Azure Managed Identities</br>
 </td>
-<td width="50%" valign="top"><h3>🔐 Azure Network Security & Private Link</h3>VNet · Private Link · Azure Firewall · DNS
-- Zero public ingress PaaS integration patterns
-- Private Endpoints for Azure SQL and Key Vault
-- Centralized outbound egress filtering through Azure Firewall
-- Private DNS Zone auto-registration and cross-vnet resolution
+<td width="50%" valign="top">
+<h4>🔐 Azure Network Security & Private Link</h4>
+<p align=center>VNet · Private Link · Azure Firewall · DNS</p>
+- Zero public ingress PaaS integration patterns</br>
+- Private Endpoints for Azure SQL and Key Vault</br>
+- Centralized outbound egress filtering through Azure Firewall</br>
+- Private DNS Zone auto-registration and cross-vnet resolution</br>
 </td>
 </tr>
 </table><h2>📚 Core Architecture Principles</h2><div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE
