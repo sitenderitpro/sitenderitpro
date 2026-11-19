@@ -217,21 +217,21 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
   <tr>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-           width="500" height="200" alt="GitHub Stats"/>
+           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="GitHub Stats"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true"
-           width="500" height="200" alt="Top Languages"/>
+           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="Top Languages"/>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
-           width="500" height="200" alt="GitHub Streak"/>
+           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="GitHub Streak"/>
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
-           width="500" height="200" alt="Activity Graph"/>
+           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="Activity Graph"/>
     </td>
   </tr>
 </table>
