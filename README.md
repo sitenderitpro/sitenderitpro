@@ -220,7 +220,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
     </td>
     <td width="470" height="195" align="center" valign="middle" style="width:470px;height:195px;padding:0;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=normal&theme=tokyonight&hide_border=true&langs_count=4&card_width=470&card_height=195"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=normal&theme=tokyonight&hide_border=true&langs_count=4&card_width=450&card_height=195"
         width="470"
         height="195"
         style="display:block;width:470px;height:195px;object-fit:fill;"
