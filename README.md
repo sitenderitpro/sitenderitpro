@@ -207,17 +207,59 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 
 <h3>📊 GitHub Statistics & Analytics</h3>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+<!-- Row 1: GitHub Stats + Top Languages -->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&card_width=420"
+        width="100%"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=420"
+        width="100%"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
+
+<!-- Row 2: Contribution Streak -->
+<img
+  src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
+  width="65%"
+  alt="GitHub Streak"
+/>
+
+<br/><br/>
+
+<!-- Row 3: Full Width Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="Activity Graph"
+/>
+
+</div>
 
 
-<img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" /></div><h2>🤝 Connect & Collaborate</h2><div align="center"><a href="https://github.com/sitenderitpro">
+
+
+
+
+
+<h3>🤝 Connect & Collaborate</h3>
+<div align="center"><a href="https://github.com/sitenderitpro">
 
   <img src="https://img.shields.io/badge/GitHub-Follow%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
