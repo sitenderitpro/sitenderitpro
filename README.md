@@ -153,12 +153,18 @@ Metric	Capability Domain	Enterprise Impact & Outcomes:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8"  width="36" height="36"  alt="Snowflake" />
-</p></div><h2>🚀 Featured Engineering Labs</h2><table>
+</p></div>
+</br></br>
+
+<h3>🚀 Featured Engineering Labs</h3>
+
+<table>
 <tr>
-<td width="50%" valign="top"><h3>☁️ Azure Infrastructure Automation</h3>Azure · Terraform · Azure DevOps
-- Modular provisioning for enterprise landing zone resources
-- Automated VNet, Subnet, and NSG baseline associations
-- Linux VM bootstrap, security hardening & tagging governance
+<td width="50%" valign="top"><h4>☁️ Azure Infrastructure Automation</h4>
+  Azure · Terraform · Azure DevOps</br>
+- Modular provisioning for enterprise landing zone resources</br>
+- Automated VNet, Subnet, and NSG baseline associations</br>
+- Linux VM bootstrap, security hardening & tagging governance</br>
 - Remote state management with lease locking & state backup
 </td>
 <td width="50%" valign="top"><h3>🐘 PostgreSQL Enterprise Automation</h3>PostgreSQL · Ubuntu Linux · Terraform · CI/CD
