@@ -268,8 +268,20 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 </a>
 
 
-Technology Architecture | Cloud Engineering | Infrastructure Automation
+<p align="center">
+  <strong>
+    TECHNOLOGY ARCHITECTURE &nbsp;·&nbsp;
+    CLOUD ENGINEERING &nbsp;·&nbsp;
+    INFRASTRUCTURE AUTOMATION
+  </strong>
+</p>
 
-Designing the foundation. Automating the delivery. Securing the platform.
+<p align="center">
+  <strong>
+    Designing the Foundation.
+    Automating the Delivery.
+    Securing the Platform.
+  </strong>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=100&section=footer" width="100%" alt="Footer wave" /></div>
