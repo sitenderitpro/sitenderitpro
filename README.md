@@ -266,7 +266,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 </a>
 </br>
 </br>
-</br>
+
 <p align="center">
   <strong>
     TECHNOLOGY ARCHITECTURE &nbsp;·&nbsp;
