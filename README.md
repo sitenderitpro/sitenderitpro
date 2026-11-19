@@ -208,55 +208,36 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 <h3>📊 GitHub Statistics & Analytics</h3>
 
+
+### 📊 GitHub Statistics & Analytics
+
 <div align="center">
 
-<!-- Row 1: GitHub Stats + Top Languages -->
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td align="center" width="50%">
-      <img  
-        src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-        width="100%"
-        height="165px"
-        alt="GitHub Stats" />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+           width="460" height="180" alt="GitHub Stats"/>
     </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true"
-        width="100%"
-        height="165px"
-        alt="Most Used Languages"
-      />
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true"
+           width="460" height="180" alt="Top Languages"/>
     </td>
-    </tr>
-    <tr>
-    <td align="center" width="50%">
-      <img
-        src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
-        width="100%"
-        height="165px"
-        alt="GitHub Streak"
-      />
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
+           width="460" height="180" alt="GitHub Streak"/>
     </td>
-  
-  <td align="center" width="50%">
-  <!-- Row 3: Full Width Activity Graph -->
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
-      width="100%"
-      height="165px"
-      alt="Activity Graph"
-    />
-  </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
+           width="460" height="180" alt="Activity Graph"/>
+    </td>
   </tr>
 </table>
 
-<br/>
-
-
-
-
 </div>
+
 
 
 
