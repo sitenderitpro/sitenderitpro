@@ -213,10 +213,10 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 <!-- Row 1: GitHub Stats + Top Languages -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
     </td>
-    <td width="33.33%" align="center">
+    <td width="50%" align="center">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true"
         width="100%"
@@ -224,7 +224,9 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
         alt="Most Used Languages"
       />
     </td>
-    <td align="center" width="33%">
+    </tr>
+    <tr>
+    <td align="center" width="50%">
       <img
         src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
         width="100%"
@@ -232,9 +234,8 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
         alt="GitHub Streak"
       />
     </td>
-  </tr>
-  <tr>
-  <td>
+  
+  <td align="center" width="50%">
   <!-- Row 3: Full Width Activity Graph -->
     <img
       src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
