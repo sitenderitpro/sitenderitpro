@@ -104,14 +104,16 @@ Migrating legacy architectures to resilient, cloud-native managed data platforms
 <kbd>python ETL</kbd>
 <kbd>.NET / C#</kbd>
 
-<h2>💼 Measurable Delivery Outcomes</h2>Metric	Capability Domain	Enterprise Impact & Outcomes
+<h3>💼 Measurable Delivery Outcomes</h3>
+Metric	Capability Domain	Enterprise Impact & Outcomes: 
 📉 27%	Data & Platform Modernization	Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure.
 ⚡ 40%	Data & Platform Modernization	Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines.
 🚀 30%	IaC & DevOps Automation	Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines.
 🛡️ 100%	Network Architecture & Zero Trust	Achieved zero public ingress for designated PaaS resources through Private Link, Private Endpoints and Azure Firewall.
 
 
-<h2>🧰 Technology Ecosystem</h2><div align="center"><!-- Technology Ecosystem --><p align="center">
+<h3>🧰 Technology Ecosystem</h3>
+<div align="center"><!-- Technology Ecosystem --><p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azure DevOps" />
