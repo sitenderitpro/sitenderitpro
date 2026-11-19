@@ -229,12 +229,12 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
     </td>
   </tr>
   <tr>
-    <td width="470" height="170" align="center" valign="middle" style="width:470px;height:170px;padding:0;">
+    <td width="470" height="180" align="center" valign="middle" style="width:470px;height:180px;padding:0;">
       <img
-        src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true&card_width=470&card_height=170"
+        src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true&card_width=470&card_height=180"
         width="470"
-        height="170"
-        style="display:block;width:470px;height:170px;object-fit:fill;"
+        height="180"
+        style="display:block;width:470px;height:180px;object-fit:fill;"
         alt="GitHub Streak"
       />
     </td>
