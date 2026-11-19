@@ -220,7 +220,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=420"
         width="100%"
-        height="165px"
+        height="220px"
         alt="Top Languages"
       />
     </td>
