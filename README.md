@@ -195,13 +195,19 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 - Private DNS Zone auto-registration and cross-vnet resolution</br>
 </td>
 </tr>
-</table><h2>📚 Core Architecture Principles</h2><div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE
+</table>
+<h3>📚 Core Architecture Principles</h3>
+<div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE</div>
+<div>
 Architecture before code	Security by design	Repeatable IaC	FinOps & cost governance
 Business-aligned outcomes	Zero Trust & least privilege	Multi-stage CI/CD	High availability & resilience
 Scalable foundations	Private connectivity	Reusable modules	Operational simplicity
+</div>
 
 
-</div><h2>📊 GitHub Statistics & Analytics</h2><div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+
+
+<h2>📊 GitHub Statistics & Analytics</h2><div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
