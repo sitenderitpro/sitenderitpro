@@ -209,41 +209,44 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 <h3>📊 GitHub Statistics & Analytics</h3>
 <table width="990" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
   <tr>
-    <td width="470" height="195" align="center" valign="middle" style="width:470px;height:195px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
       <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true&width=470&height=450&bg_color=1a1b27&title_color=38bdf8&text_color=c9d1d9&line=38bdf8&point=f8fafc&radius=8&days=30&cache_seconds=60&v=20261119"
-        width="470"
-        height="195"
-        style="display:block;width:470px;height:195px;object-fit:fill;"
+        src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true&width=490&height=390&bg_color=1a1b27&title_color=38bdf8&text_color=c9d1d9&line=38bdf8&point=f8fafc&radius=8&days=30&cache_seconds=60&v=20261119"
+        width="490"
+        height="170"
+        style="display:block;width:490px;height:170px;object-fit:fill;"
         alt="Activity Graph"
       />
     </td>
-    <td width="470" height="195" align="center" valign="middle" style="width:470px;height:195px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=normal&theme=tokyonight&hide_border=true&langs_count=4&card_width=450&card_height=195"
-        width="450"
-        height="195"
-        style="display:block;width:470px;height:195px;object-fit:fill;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=normal&theme=tokyonight&hide_border=true&langs_count=4&card_width=490&card_height=170"
+        width="490"
+        height="170"
+        style="display:block;width:490px;height:170px;object-fit:fill;"
         alt="Top Languages"
       />
     </td>
   </tr>
+<tr>
+
+</tr>
   <tr>
-    <td width="470" height="180" align="center" valign="middle" style="width:470px;height:180px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
       <img
-        src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true&card_width=470&card_height=180"
-        width="470"
-        height="180"
-        style="display:block;width:470px;height:180px;object-fit:fill;"
+        src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true&card_width=490&card_height=170"
+        width="490"
+        height="170"
+        style="display:block;width:490px;height:170px;object-fit:fill;"
         alt="GitHub Streak"
       />
     </td>
-    <td width="470" height="195" align="center" valign="middle" style="width:470px;height:195px;padding:0;">
+    <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&card_width=470&card_height=195"
-        width="470"
-        height="195"
-        style="display:block;width:470px;height:195px;object-fit:fill;"
+        src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=560&card_height=170"
+        width="490"
+        height="170"
+        style="display:block;width:490px;height:170px;object-fit:fill;"
         alt="GitHub Stats"
       />
     </td>
