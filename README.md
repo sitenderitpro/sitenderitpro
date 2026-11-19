@@ -213,18 +213,25 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 <!-- Row 1: GitHub Stats + Top Languages -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img
         src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&card_width=420"
         width="100%"
         alt="GitHub Stats"
       />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="33%">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&card_width=420"
         width="100%"
         alt="Top Languages"
+      />
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
+        width="100%"
+        alt="GitHub Streak"
       />
     </td>
   </tr>
@@ -232,14 +239,6 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 <br/>
 
-<!-- Row 2: Contribution Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
-  width="100%"
-  alt="GitHub Streak"
-/>
-
-<br/><br/>
 
 <!-- Row 3: Full Width Activity Graph -->
 <img
