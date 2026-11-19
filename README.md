@@ -208,8 +208,10 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 <h3>📊 GitHub Statistics & Analytics</h3>
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+
+<img height="230" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
+
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 
@@ -217,8 +219,10 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" /></div><h2>🤝 Connect & Collaborate</h2><div align="center"><a href="https://github.com/sitenderitpro">
+
   <img src="https://img.shields.io/badge/GitHub-Follow%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
+
 &nbsp;&nbsp;&nbsp;
 <a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
