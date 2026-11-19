@@ -207,7 +207,8 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 
 <h3>📊 GitHub Statistics & Analytics</h3>
-<table width="990" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed;">
+
+<table width="990" border="0" cellspacing="0" cellpadding="0" style="table-layout: fixed;border: none; border-collapse: collapse;">
   <tr>
     <td width="490" height="170" align="center" valign="middle" style="width:490px;height:170px;padding:0;">
       <img
