@@ -148,7 +148,7 @@
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" width="48" height="48" alt="Snowflake" />
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8"  width="48" height="48"  alt="Snowflake" />
 </p>
 
 
