@@ -46,8 +46,15 @@ Technology & Azure Solution Architect with over 18 years of enterprise IT engine
 
 Specialized in architecting enterprise-grade cloud foundations, multi-subscription landing zones, and repeatable infrastructure-as-code automation that balance agility, compliance, and cost governance.
 
-<h2>🏛️ Core Architectural Domains</h2><h3>☁️ 01 / Cloud Architecture & Enterprise Landing Zones</h3>Designing scalable, enterprise-grade cloud topologies adhering strictly to Microsoft Cloud Adoption Framework (CAF).
-</br><kbd>Azure Landing Zones</kbd> <kbd>Management Groups</kbd> <kbd>Subscription Topology</kbd> <kbd>Azure Policy Enforcement</kbd> <kbd>Resource Hierarchy</kbd> <kbd>FinOps & Cost Governance</kbd>
+<h3>🏛️ Core Architectural Domains</h3>
+<h4>☁️ 01 / Cloud Architecture & Enterprise Landing Zones</h4>
+Designing scalable, enterprise-grade cloud topologies adhering strictly to Microsoft Cloud Adoption Framework (CAF).</br>
+<kbd>Azure Landing Zones</kbd>
+<kbd>Management Groups</kbd>
+<kbd>Subscription Topology</kbd>
+<kbd>Azure Policy Enforcement</kbd>
+<kbd>Resource Hierarchy</kbd>
+<kbd>FinOps & Cost Governance</kbd>
 
 <h3>🌐 02 / Network Architecture & Zero Trust</h3>High-security enterprise networking ensuring zero public exposure and strict perimeter control.
 </br><kbd>Hub-Spoke Topology</kbd> <kbd>Virtual WAN</kbd> <kbd>Global VNet Peering</kbd> <kbd>Azure Firewall Premium</kbd> <kbd>Private Link</kbd> <kbd>Private Endpoints</kbd> <kbd>Split-DNS</kbd>
