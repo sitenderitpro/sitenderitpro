@@ -105,10 +105,15 @@
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,windows,github,githubactions,git,python,powershell,bash,dotnet,cs,postgres,mysql&theme=dark" alt="Cloud & DevOps Stack" />
+  <img src="https://skillicons.dev/icons?i=azure,azuredevops,terraform,docker,kubernetes,linux,windows,github,githubactions&theme=dark" alt="Cloud & DevOps Stack" />
 </p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,python,powershell,bash,dotnet,cs,postgres,mysql&theme=dark" alt="Dev & Data Stack" />
+  <img src="https://skillicons.dev/icons?i=git,python,powershell,bash,dotnet,cs,postgres,mysql&theme=dark" alt="Development & Database Stack" />
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ssis,snowflake&theme=dark" alt="Data Engineering Stack" />
 </p>
 
 </div>
