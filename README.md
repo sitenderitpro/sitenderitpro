@@ -111,6 +111,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,python,powershell,bash,dotnet,cs,postgres,mysql&theme=dark" alt="Development & Database Stack" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/SSIS-CB2027?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SSIS" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+</p>
+
 </div>
 
 ---
