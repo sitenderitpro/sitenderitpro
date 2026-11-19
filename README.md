@@ -18,7 +18,7 @@
 <img src="https://komarev.com/ghpvc/?username=sitenderitpro&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </br></br>
 <!-- Executive Metrics Cards (Compact width - No extra left/right padding) -->
-<table align="center">
+<table align="center" cellpadding="5" cellspacing="0">
   <tr>
     <td align="center" width="240px">
       <h4><strong>18+ Years Experience</strong></h4>
