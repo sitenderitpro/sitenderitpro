@@ -75,14 +75,34 @@ Enforcing least-privilege, identity-first access control and cryptographic secur
 <kbd>Azure Key Vault</kbd>
 <kbd>Zero Trust</kbd>
 
-<h4>🏗️ 04 / Infrastructure as Code (IaC) Automation</h4>Building version-controlled, reusable, modular infrastructure delivery pipelines.
-</br><kbd>Terraform</kbd> <kbd>OpenTofu</kbd> <kbd>Terragrunt</kbd> <kbd>Remote State Locking</kbd> <kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd> <kbd>Drift Detection</kbd>
+<h4>🏗️ 04 / Infrastructure as Code (IaC) Automation</h4>
+Building version-controlled, reusable, modular infrastructure delivery pipelines.</br>
+<kbd>Terraform</kbd>
+<kbd>OpenTofu</kbd>
+<kbd>Terragrunt</kbd>
+<kbd>Remote State Locking</kbd>
+<kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd>
+<kbd>Drift Detection</kbd>
 
-<h3>⚙️ 05 / DevOps & Continuous Delivery</h3>Production-grade automated release pipelines with strict validation gates and automated rollbacks.
-</br><kbd>Azure DevOps</kbd> <kbd>GitHub Actions</kbd> <kbd>Multi-Stage YAML</kbd> <kbd>PR Quality Gates</kbd> <kbd>PowerShell</kbd> <kbd>Python</kbd> <kbd>Bash</kbd>
+<h4>⚙️ 05 / DevOps & Continuous Delivery</h4>
+Production-grade automated release pipelines with strict validation gates and automated rollbacks.
+</br>
+<kbd>Azure DevOps</kbd>
+<kbd>GitHub Actions</kbd>
+<kbd>Multi-Stage YAML</kbd>
+<kbd>PR Quality Gates</kbd>
+<kbd>PowerShell</kbd>
+<kbd>Python</kbd>
+<kbd>Bash</kbd>
 
-<h3>🗄️ 06 / Enterprise Data & Platform Modernization</h3>Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
-<kbd>SQL Server Always-On</kbd> <kbd>Azure SQL Managed Instance</kbd> <kbd>PostgreSQL on Ubuntu</kbd> <kbd>SSIS ETL Modernization</kbd> <kbd>.NET / C#</kbd>
+<h4>🗄️ 06 / Enterprise Data & Platform Modernization</h4>
+Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
+<kbd>Microsoft SQL Server</kbd>
+<kbd>Azure SQL Managed Instance</kbd>
+<kbd>PostgreSQL</kbd>
+<kbd>SSIS ETL</kbd>
+<kbd>python ETL</kbd>
+<kbd>.NET / C#</kbd>
 
 <h2>💼 Measurable Delivery Outcomes</h2>Metric	Capability Domain	Enterprise Impact & Outcomes
 📉 27%	Data & Platform Modernization	Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure.
