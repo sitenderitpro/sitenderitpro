@@ -169,7 +169,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 - Remote state management with lease locking & state backup
 </td>
 <td width="50%" valign="top">
-<h4>🐘 PostgreSQL Enterprise Automation</h4>
+<h4 align = center>🐘 PostgreSQL Enterprise Automation</h4>
 <p align=center>PostgreSQL · Ubuntu Linux · Terraform · CI/CD</p>
 - Automated PostgreSQL deployment & security hardening on Linux</br>
 - Scripted role, user, and extension provisioning</br>
@@ -179,7 +179,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h4>🔄 Multi-Stage CI/CD Pipeline</h4>
+<h4 align = center>🔄 Multi-Stage CI/CD Pipeline</h4>
 <p align=center>GitHub Actions · Azure DevOps · YAML</p>
 - Quality-gated pipelines with automated linting & validation</br>
 - Multi-environment isolation (Dev ➔ QA ➔ Production)</br>
@@ -187,7 +187,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 - Secure credential injection via Azure Managed Identities</br>
 </td>
 <td width="50%" valign="top">
-<h4>🔐 Azure Network Security & Private Link</h4>
+<h4 align = center>🔐 Azure Network Security & Private Link</h4>
 <p align=center>VNet · Private Link · Azure Firewall · DNS</p>
 - Zero public ingress PaaS integration patterns</br>
 - Private Endpoints for Azure SQL and Key Vault</br>
