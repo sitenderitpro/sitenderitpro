@@ -233,17 +233,22 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
       />
     </td>
   </tr>
+  <tr>
+  <td>
+  <!-- Row 3: Full Width Activity Graph -->
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
+      width="100%"
+      alt="Activity Graph"
+    />
+  </td>
+  </tr>
 </table>
 
 <br/>
 
 
-<!-- Row 3: Full Width Activity Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
-  width="100%"
-  alt="Activity Graph"
-/>
+
 
 </div>
 
