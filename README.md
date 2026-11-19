@@ -36,46 +36,36 @@
       <sub>Modular Terraform Pipelines</sub>
     </td>
   </tr>
-</table></div>👨‍💻 Professional Summary
-Technology & Azure Solution Architect with over 18 years of enterprise IT engineering experience, including 8+ years architecting, governing, and scaling platforms on Microsoft Azure.
+</table></div><h2>👨‍💻 Professional Summary</h2>Technology & Azure Solution Architect with over 18 years of enterprise IT engineering experience, including 8+ years architecting, governing, and scaling platforms on Microsoft Azure.
 
 Specialized in architecting enterprise-grade cloud foundations, multi-subscription landing zones, and repeatable infrastructure-as-code automation that balance agility, compliance, and cost governance.
 
-🏛️ Core Architectural Domains
-☁️ 01 / Cloud Architecture & Enterprise Landing Zones
-Designing scalable, enterprise-grade cloud topologies adhering strictly to Microsoft Cloud Adoption Framework (CAF).
+<h2>🏛️ Core Architectural Domains</h2><h3>☁️ 01 / Cloud Architecture & Enterprise Landing Zones</h3>Designing scalable, enterprise-grade cloud topologies adhering strictly to Microsoft Cloud Adoption Framework (CAF).
 </br><kbd>Azure Landing Zones</kbd> <kbd>Management Groups</kbd> <kbd>Subscription Topology</kbd> <kbd>Azure Policy Enforcement</kbd> <kbd>Resource Hierarchy</kbd> <kbd>FinOps & Cost Governance</kbd>
 
-🌐 02 / Network Architecture & Zero Trust
-High-security enterprise networking ensuring zero public exposure and strict perimeter control.
+<h3>🌐 02 / Network Architecture & Zero Trust</h3>High-security enterprise networking ensuring zero public exposure and strict perimeter control.
 </br><kbd>Hub-Spoke Topology</kbd> <kbd>Virtual WAN</kbd> <kbd>Global VNet Peering</kbd> <kbd>Azure Firewall Premium</kbd> <kbd>Private Link</kbd> <kbd>Private Endpoints</kbd> <kbd>Split-DNS</kbd>
 
-🔐 03 / Identity, Security & Access Governance
-Enforcing least-privilege, identity-first access control and cryptographic security across enterprise boundaries.
+<h3>🔐 03 / Identity, Security & Access Governance</h3>Enforcing least-privilege, identity-first access control and cryptographic security across enterprise boundaries.
 </br><kbd>Microsoft Entra ID (Azure AD)</kbd> <kbd>Privileged Identity Management (PIM)</kbd> <kbd>Azure RBAC</kbd> <kbd>Managed Identities</kbd> <kbd>Azure Key Vault</kbd> <kbd>Zero Trust</kbd>
 
-🏗️ 04 / Infrastructure as Code (IaC) Automation
-Building version-controlled, reusable, modular infrastructure delivery pipelines.
+<h3>🏗️ 04 / Infrastructure as Code (IaC) Automation</h3>Building version-controlled, reusable, modular infrastructure delivery pipelines.
 </br><kbd>Terraform</kbd> <kbd>OpenTofu</kbd> <kbd>Terragrunt</kbd> <kbd>Remote State Locking</kbd> <kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd> <kbd>Drift Detection</kbd>
 
-⚙️ 05 / DevOps & Continuous Delivery
-Production-grade automated release pipelines with strict validation gates and automated rollbacks.
+<h3>⚙️ 05 / DevOps & Continuous Delivery</h3>Production-grade automated release pipelines with strict validation gates and automated rollbacks.
 </br><kbd>Azure DevOps</kbd> <kbd>GitHub Actions</kbd> <kbd>Multi-Stage YAML</kbd> <kbd>PR Quality Gates</kbd> <kbd>PowerShell</kbd> <kbd>Python</kbd> <kbd>Bash</kbd>
 
-🗄️ 06 / Enterprise Data & Platform Modernization
-Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
+<h3>🗄️ 06 / Enterprise Data & Platform Modernization</h3>Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
 <kbd>SQL Server Always-On</kbd> <kbd>Azure SQL Managed Instance</kbd> <kbd>PostgreSQL on Ubuntu</kbd> <kbd>SSIS ETL Modernization</kbd> <kbd>.NET / C#</kbd>
 
-💼 Measurable Delivery Outcomes
-Metric	Capability Domain	Enterprise Impact & Outcomes
+<h2>💼 Measurable Delivery Outcomes</h2>Metric	Capability Domain	Enterprise Impact & Outcomes
 📉 27%	Data & Platform Modernization	Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure.
 ⚡ 40%	Data & Platform Modernization	Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines.
 🚀 30%	IaC & DevOps Automation	Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines.
 🛡️ 100%	Network Architecture & Zero Trust	Achieved zero public ingress for designated PaaS resources through Private Link, Private Endpoints and Azure Firewall.
 
 
-🧰 Technology Ecosystem
-<div align="center"><!-- Technology Ecosystem --><p align="center">
+<h2>🧰 Technology Ecosystem</h2><div align="center"><!-- Technology Ecosystem --><p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azure DevOps" />
@@ -115,18 +105,15 @@ Metric	Capability Domain	Enterprise Impact & Outcomes
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8"  width="48" height="48"  alt="Snowflake" />
-</p></div>🚀 Featured Engineering Labs
-<table>
+</p></div><h2>🚀 Featured Engineering Labs</h2><table>
 <tr>
-<td width="50%" valign="top">☁️ Azure Infrastructure Automation
-Azure · Terraform · Azure DevOps
+<td width="50%" valign="top"><h3>☁️ Azure Infrastructure Automation</h3>Azure · Terraform · Azure DevOps
 - Modular provisioning for enterprise landing zone resources
 - Automated VNet, Subnet, and NSG baseline associations
 - Linux VM bootstrap, security hardening & tagging governance
 - Remote state management with lease locking & state backup
 </td>
-<td width="50%" valign="top">🐘 PostgreSQL Enterprise Automation
-PostgreSQL · Ubuntu Linux · Terraform · CI/CD
+<td width="50%" valign="top"><h3>🐘 PostgreSQL Enterprise Automation</h3>PostgreSQL · Ubuntu Linux · Terraform · CI/CD
 - Automated PostgreSQL deployment & security hardening on Linux
 - Scripted role, user, and extension provisioning
 - Pipeline-driven schema migration and automated table rollout
@@ -134,30 +121,26 @@ PostgreSQL · Ubuntu Linux · Terraform · CI/CD
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">🔄 Multi-Stage CI/CD Pipeline
-GitHub Actions · Azure DevOps · YAML
+<td width="50%" valign="top"><h3>🔄 Multi-Stage CI/CD Pipeline</h3>GitHub Actions · Azure DevOps · YAML
 - Quality-gated pipelines with automated linting & validation
 - Multi-environment isolation (Dev ➔ QA ➔ Production)
 - Enforced manual approvals & quality gates for production
 - Secure credential injection via Azure Managed Identities
 </td>
-<td width="50%" valign="top">🔐 Azure Network Security & Private Link
-VNet · Private Link · Azure Firewall · DNS
+<td width="50%" valign="top"><h3>🔐 Azure Network Security & Private Link</h3>VNet · Private Link · Azure Firewall · DNS
 - Zero public ingress PaaS integration patterns
 - Private Endpoints for Azure SQL and Key Vault
 - Centralized outbound egress filtering through Azure Firewall
 - Private DNS Zone auto-registration and cross-vnet resolution
 </td>
 </tr>
-</table>📚 Core Architecture Principles
-<div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE
+</table><h2>📚 Core Architecture Principles</h2><div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE
 Architecture before code	Security by design	Repeatable IaC	FinOps & cost governance
 Business-aligned outcomes	Zero Trust & least privilege	Multi-stage CI/CD	High availability & resilience
 Scalable foundations	Private connectivity	Reusable modules	Operational simplicity
 
 
-</div>📊 GitHub Statistics & Analytics
-<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+</div><h2>📊 GitHub Statistics & Analytics</h2><div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
@@ -165,8 +148,7 @@ Scalable foundations	Private connectivity	Reusable modules	Operational simplicit
 <img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" /></div>🤝 Connect & Collaborate
-<div align="center"><a href="https://github.com/sitenderitpro">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" /></div><h2>🤝 Connect & Collaborate</h2><div align="center"><a href="https://github.com/sitenderitpro">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
