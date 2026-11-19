@@ -56,13 +56,26 @@ Designing scalable, enterprise-grade cloud topologies adhering strictly to Micro
 <kbd>Resource Hierarchy</kbd>
 <kbd>FinOps & Cost Governance</kbd>
 
-<h3>🌐 02 / Network Architecture & Zero Trust</h3>High-security enterprise networking ensuring zero public exposure and strict perimeter control.
-</br><kbd>Hub-Spoke Topology</kbd> <kbd>Virtual WAN</kbd> <kbd>Global VNet Peering</kbd> <kbd>Azure Firewall Premium</kbd> <kbd>Private Link</kbd> <kbd>Private Endpoints</kbd> <kbd>Split-DNS</kbd>
+<h4>🌐 02 / Network Architecture & Zero Trust</h4>
+High-security enterprise networking ensuring zero public exposure and strict perimeter control.
+</br>
+<kbd>Hub-Spoke Topology</kbd>
+<kbd>Virtual WAN</kbd>
+<kbd>Global VNet Peering</kbd>
+<kbd>Azure Firewall Premium</kbd>
+<kbd>Private Link</kbd>
+<kbd>Private Endpoints</kbd>
 
-<h3>🔐 03 / Identity, Security & Access Governance</h3>Enforcing least-privilege, identity-first access control and cryptographic security across enterprise boundaries.
-</br><kbd>Microsoft Entra ID (Azure AD)</kbd> <kbd>Privileged Identity Management (PIM)</kbd> <kbd>Azure RBAC</kbd> <kbd>Managed Identities</kbd> <kbd>Azure Key Vault</kbd> <kbd>Zero Trust</kbd>
+<h4><center>🔐 03 / Identity, Security & Access Governance</center></h5>
+Enforcing least-privilege, identity-first access control and cryptographic security across enterprise boundaries.</br>
+<kbd>Microsoft Entra ID (Azure AD)</kbd>
+<kbd>Privileged Identity Management (PIM)</kbd>
+<kbd>Azure RBAC</kbd>
+<kbd>Managed Identities</kbd>
+<kbd>Azure Key Vault</kbd>
+<kbd>Zero Trust</kbd>
 
-<h3>🏗️ 04 / Infrastructure as Code (IaC) Automation</h3>Building version-controlled, reusable, modular infrastructure delivery pipelines.
+<h4>🏗️ 04 / Infrastructure as Code (IaC) Automation</h4>Building version-controlled, reusable, modular infrastructure delivery pipelines.
 </br><kbd>Terraform</kbd> <kbd>OpenTofu</kbd> <kbd>Terragrunt</kbd> <kbd>Remote State Locking</kbd> <kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd> <kbd>Drift Detection</kbd>
 
 <h3>⚙️ 05 / DevOps & Continuous Delivery</h3>Production-grade automated release pipelines with strict validation gates and automated rollbacks.
