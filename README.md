@@ -21,19 +21,19 @@
 <table align="center">
   <tr>
     <td align="center" width="240px">
-      <font size="+2" color="#0078D4"><b>18+ Years Experience</b></font>
+      <font size="+3" color="#0078D4"><b>18+ Years Experience</b></font>
       <font size="1" color="#8b949e">Enterprise IT Leadership</font>
     </td>
     <td align="center" width="240px">
-      <font size="+2" color="#0078D4"><b>8+ Years in Cloud</b></font>
+      <font size="+3" color="#0078D4"><b>8+ Years in Cloud</b></font>
       <font size="1" color="#8b949e">Microsoft Azure Specialist</font>
     </td>
     <td align="center" width="240px">
-      <font size="+2" color="#10B981"><b>27% OpEx Reduction</b></font>
+      <font size="+3" color="#10B981"><b>27% OpEx Reduction</b></font>
       <font size="1" color="#8b949e">Platform Modernization</font>
     </td>
     <td align="center" width="240px">
-      <font size="+2" color="#7B42BC"><b>100% Automated IaC</b></font>
+      <font size="+3" color="#7B42BC"><b>100% Automated IaC</b></font>
       <font size="1" color="#8b949e">Modular Terraform Pipelines</font>
     </td>
   </tr>
