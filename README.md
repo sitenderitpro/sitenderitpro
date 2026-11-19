@@ -213,28 +213,30 @@ Metric	Capability Domain	Enterprise Impact & Outcomes: </br>
 
 <div align="center">
 
+
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="GitHub Stats"/>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&card_width=495"
+           width="100%" alt="GitHub Stats"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true"
-           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="Top Languages"/>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true&card_width=495"
+           width="100%" alt="Top Languages"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true"
-           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="GitHub Streak"/>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true&card_width=495&card_height=195"
+           width="100%" alt="GitHub Streak"/>
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true"
-           width="500" height="200" style="width:500px; height:190px; object-fit:fill; display:block; alt="Activity Graph"/>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true&height=195"
+           width="100%" alt="Activity Graph"/>
     </td>
   </tr>
 </table>
+
 
 </div>
 
