@@ -160,8 +160,7 @@ Metric	Capability Domain	Enterprise Impact & Outcomes:
 
 <table>
 <tr>
-<td width="50%" valign="top"><h4>☁️ Azure Infrastructure Automation</h4>
-  <p align=center>Azure · Terraform · Azure DevOps</p></br>
+<td width="50%" valign="top"><h4>☁️ Azure Infrastructure Automation</h4> Azure · Terraform · Azure DevOps</br>
 - Modular provisioning for enterprise landing zone resources</br>
 - Automated VNet, Subnet, and NSG baseline associations</br>
 - Linux VM bootstrap, security hardening & tagging governance</br>
