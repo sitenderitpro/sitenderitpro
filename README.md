@@ -20,19 +20,19 @@
 <table align="center">
   <tr>
     <td align="center" width="240px">
-      <h3><strong>18+ Years Experience</strong></h3>
+      <h4><strong>18+ Years Experience</strong></h4>
       <sub>Enterprise IT Leadership</sub>
     </td>
     <td align="center" width="240px">
-      <h3><strong>8+ Years in Cloud</strong></h3>
+      <h4><strong>8+ Years in Cloud</strong></h4>
       <sub>Microsoft Azure Specialist</sub>
     </td>
     <td align="center" width="240px">
-      <h3><strong>27% OpEx Reduction</strong></h3>
+      <h4><strong>27% OpEx Reduction</strong></h4>
       <sub>Platform Modernization</sub>
     </td>
     <td align="center" width="240px">
-      <h3><strong>100% Automated IaC</strong></h3>
+      <h4><strong>100% Automated IaC</strong></h4>
       <sub>Modular Terraform Pipelines</sub>
     </td>
   </tr>
