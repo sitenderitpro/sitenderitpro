@@ -1,19 +1,11 @@
-<div align="center">
-
-<!-- Hero Banner -->
+<div align="center"><!-- Hero Banner -->
 <a href="https://sitenderitpro.github.io/sitenderitpro/">
   <img src="https://raw.githubusercontent.com/sitenderitpro/sitenderitpro/main/assets/githubbanner.png" width="100%" alt="Sitender Kumar - Enterprise Azure Solution Architect" />
 </a>
-
-<br/>
-
 <!-- Animated Typing Headline -->
 <a href="https://github.com/sitenderitpro">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Cloud+Architecture+%E2%80%94+Azure+Landing+Zones;Infrastructure+as+Code+%E2%80%94+Modular+Terraform+%26+OpenTofu;Zero+Trust+Security+%E2%80%94+Entra+ID+%26+Network+Isolation;Platform+Modernization+%E2%80%94+DevOps+%26+Automated+CI%2FCD" alt="Typing Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Enterprise+Cloud+Architecture+%E2%80%94+Azure+Landing+Zones;Infrastructure+as+Code+%E2%80%94+Modular+Terraform+%26+OpenTofu;Zero+Trust+Security+%E2%80%94+Entra+ID+%26+Network+Isolation;Platform+Modernization+%E2%80%94+DevOps+%26+Automated+CI%2FCD" alt="Typing Headline" />
 </a>
-
-<br/>
-
 <!-- Primary Action Badges -->
 <a href="https://sitenderitpro.github.io/sitenderitpro/" target="_blank">
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
@@ -24,90 +16,66 @@
 </a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=sitenderitpro&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-
-<br/>
-
 <!-- Executive Metrics Cards (Compact width - No extra left/right padding) -->
 <table align="center">
   <tr>
     <td align="center" width="240px">
-      <font size="+2" color="#0078D4"><b>18+ Years Experience</b></font>
-      <font size="1" color="#8b949e">Enterprise IT Leadership</font>
+      <h3><strong>18+ Years Experience</strong></h3>
+      <sub>Enterprise IT Leadership</sub>
     </td>
     <td align="center" width="240px">
-      <font size="+2" color="#0078D4"><b>8+ Years in Cloud</b></font>
-      <font size="1" color="#8b949e">Microsoft Azure Specialist</font>
+      <h3><strong>8+ Years in Cloud</strong></h3>
+      <sub>Microsoft Azure Specialist</sub>
     </td>
     <td align="center" width="240px">
-      <font size="+2" color="#10B981"><b>27% OpEx Reduction</b></font>
-      <font size="1" color="#8b949e">Platform Modernization</font>
+      <h3><strong>27% OpEx Reduction</strong></h3>
+      <sub>Platform Modernization</sub>
     </td>
     <td align="center" width="240px">
-      <font size="+2" color="#7B42BC"><b>100% Automated IaC</b></font>
-      <font size="1" color="#8b949e">Modular Terraform Pipelines</font>
+      <h3><strong>100% Automated IaC</strong></h3>
+      <sub>Modular Terraform Pipelines</sub>
     </td>
   </tr>
-</table>
+</table></div>👨‍💻 Professional Summary
+Technology & Azure Solution Architect with over 18 years of enterprise IT engineering experience, including 8+ years architecting, governing, and scaling platforms on Microsoft Azure.
 
-</div>
+Specialized in architecting enterprise-grade cloud foundations, multi-subscription landing zones, and repeatable infrastructure-as-code automation that balance agility, compliance, and cost governance.
 
----
-
-### 👨‍💻 Professional Summary
-
-> **Technology & Azure Solution Architect** with over **18 years** of enterprise IT engineering experience, including **8+ years** architecting, governing, and scaling platforms on **Microsoft Azure**.
->
-> Specialized in architecting enterprise-grade cloud foundations, multi-subscription landing zones, and repeatable infrastructure-as-code automation that balance agility, compliance, and cost governance.
-
----
-
-### 🏛️ Core Architectural Domains
-
-#### ☁️ 01 / Cloud Architecture & Enterprise Landing Zones
-> Designing scalable, enterprise-grade cloud topologies adhering strictly to Microsoft Cloud Adoption Framework (CAF).
+🏛️ Core Architectural Domains
+☁️ 01 / Cloud Architecture & Enterprise Landing Zones
+Designing scalable, enterprise-grade cloud topologies adhering strictly to Microsoft Cloud Adoption Framework (CAF).
 </br><kbd>Azure Landing Zones</kbd> <kbd>Management Groups</kbd> <kbd>Subscription Topology</kbd> <kbd>Azure Policy Enforcement</kbd> <kbd>Resource Hierarchy</kbd> <kbd>FinOps & Cost Governance</kbd>
 
-#### 🌐 02 / Network Architecture & Zero Trust
-> High-security enterprise networking ensuring zero public exposure and strict perimeter control.
+🌐 02 / Network Architecture & Zero Trust
+High-security enterprise networking ensuring zero public exposure and strict perimeter control.
 </br><kbd>Hub-Spoke Topology</kbd> <kbd>Virtual WAN</kbd> <kbd>Global VNet Peering</kbd> <kbd>Azure Firewall Premium</kbd> <kbd>Private Link</kbd> <kbd>Private Endpoints</kbd> <kbd>Split-DNS</kbd>
 
-#### 🔐 03 / Identity, Security & Access Governance
-> Enforcing least-privilege, identity-first access control and cryptographic security across enterprise boundaries.
+🔐 03 / Identity, Security & Access Governance
+Enforcing least-privilege, identity-first access control and cryptographic security across enterprise boundaries.
 </br><kbd>Microsoft Entra ID (Azure AD)</kbd> <kbd>Privileged Identity Management (PIM)</kbd> <kbd>Azure RBAC</kbd> <kbd>Managed Identities</kbd> <kbd>Azure Key Vault</kbd> <kbd>Zero Trust</kbd>
 
-#### 🏗️ 04 / Infrastructure as Code (IaC) Automation
-> Building version-controlled, reusable, modular infrastructure delivery pipelines.
+🏗️ 04 / Infrastructure as Code (IaC) Automation
+Building version-controlled, reusable, modular infrastructure delivery pipelines.
 </br><kbd>Terraform</kbd> <kbd>OpenTofu</kbd> <kbd>Terragrunt</kbd> <kbd>Remote State Locking</kbd> <kbd>Multi-Environment Isolation (Dev/QA/Prod)</kbd> <kbd>Drift Detection</kbd>
 
-#### ⚙️ 05 / DevOps & Continuous Delivery
-> Production-grade automated release pipelines with strict validation gates and automated rollbacks.
+⚙️ 05 / DevOps & Continuous Delivery
+Production-grade automated release pipelines with strict validation gates and automated rollbacks.
 </br><kbd>Azure DevOps</kbd> <kbd>GitHub Actions</kbd> <kbd>Multi-Stage YAML</kbd> <kbd>PR Quality Gates</kbd> <kbd>PowerShell</kbd> <kbd>Python</kbd> <kbd>Bash</kbd>
 
-#### 🗄️ 06 / Enterprise Data & Platform Modernization
-> Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
+🗄️ 06 / Enterprise Data & Platform Modernization
+Migrating legacy architectures to resilient, cloud-native managed data platforms.</br>
 <kbd>SQL Server Always-On</kbd> <kbd>Azure SQL Managed Instance</kbd> <kbd>PostgreSQL on Ubuntu</kbd> <kbd>SSIS ETL Modernization</kbd> <kbd>.NET / C#</kbd>
 
----
-
-### 💼 Measurable Delivery Outcomes
-
-| Metric | Capability Domain | Enterprise Impact & Outcomes |
-|:---:|:---|:---|
-| 📉 **27%** | **Data & Platform Modernization** | Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure. |
-| ⚡ **40%** | **Data & Platform Modernization** | Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines. |
-| 🚀 **30%** | **IaC & DevOps Automation** | Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines. |
-| 🛡️ **100%** | **Network Architecture & Zero Trust** | Achieved zero public ingress for designated PaaS resources through Private Link, Private Endpoints and Azure Firewall. |
-
----
-
-### 🧰 Technology Ecosystem
-
-<div align="center">
+💼 Measurable Delivery Outcomes
+Metric	Capability Domain	Enterprise Impact & Outcomes
+📉 27%	Data & Platform Modernization	Reduced operational costs through modernization of legacy SQL Server databases and ETL workloads on Azure.
+⚡ 40%	Data & Platform Modernization	Improved database performance through schema optimization, indexing strategies and optimized data processing pipelines.
+🚀 30%	IaC & DevOps Automation	Accelerated cloud infrastructure provisioning through reusable Terraform modules and automated CI/CD pipelines.
+🛡️ 100%	Network Architecture & Zero Trust	Achieved zero public ingress for designated PaaS resources through Private Link, Private Endpoints and Azure Firewall.
 
 
-<!-- Technology Ecosystem -->
-
-<p align="center">
+🧰 Technology Ecosystem
+<div align="center"><!-- Technology Ecosystem --><p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" width="48" height="48" alt="Azure DevOps" />
@@ -127,9 +95,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" />
@@ -149,103 +115,58 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8"  width="48" height="48"  alt="Snowflake" />
-</p>
-
-
-</div>
-
----
-
-### 🚀 Featured Engineering Labs
-
+</p></div>🚀 Featured Engineering Labs
 <table>
 <tr>
-<td width="50%" valign="top">
-
-#### ☁️ Azure Infrastructure Automation
-`Azure` · `Terraform` · `Azure DevOps`
-* Modular provisioning for enterprise landing zone resources
-* Automated VNet, Subnet, and NSG baseline associations
-* Linux VM bootstrap, security hardening & tagging governance
-* Remote state management with lease locking & state backup
-
+<td width="50%" valign="top">☁️ Azure Infrastructure Automation
+Azure · Terraform · Azure DevOps
+- Modular provisioning for enterprise landing zone resources
+- Automated VNet, Subnet, and NSG baseline associations
+- Linux VM bootstrap, security hardening & tagging governance
+- Remote state management with lease locking & state backup
 </td>
-<td width="50%" valign="top">
-
-#### 🐘 PostgreSQL Enterprise Automation
-`PostgreSQL` · `Ubuntu Linux` · `Terraform` · `CI/CD`
-* Automated PostgreSQL deployment & security hardening on Linux
-* Scripted role, user, and extension provisioning
-* Pipeline-driven schema migration and automated table rollout
-* Automated disaster recovery backup & validation flows
-
+<td width="50%" valign="top">🐘 PostgreSQL Enterprise Automation
+PostgreSQL · Ubuntu Linux · Terraform · CI/CD
+- Automated PostgreSQL deployment & security hardening on Linux
+- Scripted role, user, and extension provisioning
+- Pipeline-driven schema migration and automated table rollout
+- Automated disaster recovery backup & validation flows
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### 🔄 Multi-Stage CI/CD Pipeline
-`GitHub Actions` · `Azure DevOps` · `YAML`
-* Quality-gated pipelines with automated linting & validation
-* Multi-environment isolation (Dev ➔ QA ➔ Production)
-* Enforced manual approvals & quality gates for production
-* Secure credential injection via Azure Managed Identities
-
+<td width="50%" valign="top">🔄 Multi-Stage CI/CD Pipeline
+GitHub Actions · Azure DevOps · YAML
+- Quality-gated pipelines with automated linting & validation
+- Multi-environment isolation (Dev ➔ QA ➔ Production)
+- Enforced manual approvals & quality gates for production
+- Secure credential injection via Azure Managed Identities
 </td>
-<td width="50%" valign="top">
-
-#### 🔐 Azure Network Security & Private Link
-`VNet` · `Private Link` · `Azure Firewall` · `DNS`
-* Zero public ingress PaaS integration patterns
-* Private Endpoints for Azure SQL and Key Vault
-* Centralized outbound egress filtering through Azure Firewall
-* Private DNS Zone auto-registration and cross-vnet resolution
-
+<td width="50%" valign="top">🔐 Azure Network Security & Private Link
+VNet · Private Link · Azure Firewall · DNS
+- Zero public ingress PaaS integration patterns
+- Private Endpoints for Azure SQL and Key Vault
+- Centralized outbound egress filtering through Azure Firewall
+- Private DNS Zone auto-registration and cross-vnet resolution
 </td>
 </tr>
-</table>
+</table>📚 Core Architecture Principles
+<div align="center">📐 DESIGN	🛡️ SECURE	⚙️ AUTOMATE	⚖️ OPTIMIZE
+Architecture before code	Security by design	Repeatable IaC	FinOps & cost governance
+Business-aligned outcomes	Zero Trust & least privilege	Multi-stage CI/CD	High availability & resilience
+Scalable foundations	Private connectivity	Reusable modules	Operational simplicity
 
----
 
-### 📚 Core Architecture Principles
-
-<div align="center">
-
-| 📐 DESIGN | 🛡️ SECURE | ⚙️ AUTOMATE | ⚖️ OPTIMIZE |
-|:---:|:---:|:---:|:---:|
-| Architecture before code | Security by design | Repeatable IaC | FinOps & cost governance |
-| Business-aligned outcomes | Zero Trust & least privilege | Multi-stage CI/CD | High availability & resilience |
-| Scalable foundations | Private connectivity | Reusable modules | Operational simplicity |
-
-</div>
-
----
-
-### 📊 GitHub Statistics & Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+</div>📊 GitHub Statistics & Analytics
+<div align="center"><img height="165" src="https://github-readme-stats.vercel.app/api?username=sitenderitpro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sitenderitpro&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=sitenderitpro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-
-</div>
-
----
-
-### 🤝 Connect & Collaborate
-
-<div align="center">
-
-<a href="https://github.com/sitenderitpro">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sitenderitpro&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" /></div>🤝 Connect & Collaborate
+<div align="center"><a href="https://github.com/sitenderitpro">
   <img src="https://img.shields.io/badge/GitHub-Follow%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" />
 </a>
 &nbsp;&nbsp;&nbsp;
@@ -253,14 +174,9 @@
   <img src="https://img.shields.io/badge/%F0%9F%8C%90_Interactive_Portfolio-Live_Website-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Portfolio Website" />
 </a>
 
-<br/><br/>
 
-**Technology Architecture | Cloud Engineering | Infrastructure Automation**
+Technology Architecture | Cloud Engineering | Infrastructure Automation
 
-*Designing the foundation. Automating the delivery. Securing the platform.*
+Designing the foundation. Automating the delivery. Securing the platform.
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=100&section=footer" width="100%" alt="Footer wave" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,50:0078D4,100:071A36&height=100&section=footer" width="100%" alt="Footer wave" /></div>
